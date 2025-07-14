@@ -4,5 +4,5 @@ translate ja strings:
 
     # game/traduction-club_stuff.rpy:21
     old "Please select a language"
-    new ""
+    new "言語を選択してください"
 
