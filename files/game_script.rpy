@@ -4,3289 +4,3289 @@
 translate ja game_script_291cd73e:
 
     # "It's the day of the festival."
-    ""
+    "今日は文化祭の日だ。"
 
 # game/game_script.rpy:16
 translate ja game_script_f55f58cd:
 
     # "Of all days, I expected this to be the one where I'd be walking to school with Sayori."
-    ""
+    "こんな日に限って、さよりと一緒に学校へ行くと思ってたのに。"
 
 # game/game_script.rpy:17
 translate ja game_script_5f35e367:
 
     # "But Sayori isn't answering her phone."
-    ""
+    "でも、さよりは電話に出てくれない。"
 
 # game/game_script.rpy:18
 translate ja game_script_f01b5f50:
 
     # "I consider going to her house to wake her up."
-    ""
+    "家まで起こしに行こうかなって考える。"
 
 # game/game_script.rpy:19
 translate ja game_script_bf20ec7b:
 
     # "It's not a big deal to at least wait for her, or help her wake up."
-    ""
+    "せめて待ってあげたり、起こしてあげたりするくらい、たいしたことじゃない。"
 
 # game/game_script.rpy:20
 translate ja game_script_e601aa4e:
 
     # "Even the simple gesture of walking her to school makes her really happy."
-    ""
+    "一緒に学校まで歩くだけでも、さよりはすごく喜ぶんだ。"
 
 # game/game_script.rpy:21
 translate ja game_script_70e7cabf:
 
     # "Besides..."
-    ""
+    "それに……"
 
 # game/game_script.rpy:22
 translate ja game_script_68430306:
 
     # "I told her yesterday that things will be the same as they always have been."
-    ""
+    "昨日、これからもずっと変わらないって言ったんだ。"
 
 # game/game_script.rpy:23
 translate ja game_script_e35fe926:
 
     # "That's all she needs, and what I want to give her."
-    ""
+    "それが彼女に必要なことだし、俺もそうしてあげたい。"
 
 # game/game_script.rpy:24
 translate ja game_script_8a012772:
 
     # "The hell with it. I'll go get her."
-    ""
+    "もういいや、迎えに行こう。"
 
 # game/game_script.rpy:25
 translate ja game_script_6f7f2a01:
 
     # "I grab the cupcakes Natsuki and I made yesterday, and make my way to Sayori's."
-    ""
+    "昨日ナツキと作ったカップケーキを持って、さよりの家へ向かう。"
 
 # game/game_script.rpy:29
 translate ja game_script_558b962d:
 
     # "I reach Sayori's house and knock on the door."
-    ""
+    "さよりの家に着いて、ドアをノックする。"
 
 # game/game_script.rpy:30
 translate ja game_script_b8d78e77:
 
     # "I don't expect an answer, since she's not picking up her phone, either."
-    ""
+    "電話にも出ないし、返事は期待してない。"
 
 # game/game_script.rpy:31
 translate ja game_script_a19898c6:
 
     # "Like yesterday, I open the door and let myself in."
-    ""
+    "昨日みたいに、ドアを開けて中に入る。"
 
 # game/game_script.rpy:38
 translate ja game_script_4f4ec354:
 
     # "She really is a heavy sleeper..."
-    ""
+    "ほんとに寝起き悪いな…"
 
 # game/game_script.rpy:39
 translate ja game_script_17df0a8d:
 
     # "I swallow."
-    ""
+    "ごくりと唾を飲み込む。"
 
 # game/game_script.rpy:40
 translate ja game_script_5166b167:
 
     # "I can't believe I ended up doing this after all."
-    ""
+    "結局こんなことすることになるなんて、信じられない。"
 
 # game/game_script.rpy:41
 translate ja game_script_66baf796:
 
     # "Waking her up in her own house..."
-    ""
+    "彼女の家で起こすなんて…"
 
 # game/game_script.rpy:42
 translate ja game_script_d39780a5:
 
     # "Isn't that more like something a boyfriend would do?"
-    ""
+    "これって、まるで彼氏みたいじゃないか？"
 
 # game/game_script.rpy:43
 translate ja game_script_cc4d5947:
 
     # "In any case..."
-    ""
+    "まあ、どっちにしても…"
 
 # game/game_script.rpy:44
 translate ja game_script_eff61fd1:
 
     # "It just feels right."
-    ""
+    "なんか、これが正しい気がする。"
 
 # game/game_script.rpy:45
 translate ja game_script_b771a755:
 
     # "Outside Sayori's room, I knock on her door."
-    ""
+    "さよりの部屋の前で、そっとノックする。"
 
 # game/game_script.rpy:46
 translate ja game_script_e766b9e2:
 
     # mc "Sayori?"
-    mc ""
+    mc "さより？"
 
 # game/game_script.rpy:47
 translate ja game_script_2d697678:
 
     # mc "Wake up, dummy..."
-    mc ""
+    mc "起きろよ、バカ…"
 
 # game/game_script.rpy:48
 translate ja game_script_4f673053:
 
     # "There's no response."
-    ""
+    "返事はない。"
 
 # game/game_script.rpy:49
 translate ja game_script_e55755b1:
 
     # "I really didn't want to have to enter her room like this..."
-    ""
+    "本当はこんなふうに部屋に入るのは嫌だったけど…"
 
 # game/game_script.rpy:50
 translate ja game_script_5f524499:
 
     # "Isn't it kind of a breach of privacy?"
-    ""
+    "これって、プライバシー侵害じゃないか？"
 
 # game/game_script.rpy:51
 translate ja game_script_92ad08b5:
 
     # "But she really leaves me no choice."
-    ""
+    "でも、もうどうしようもない。"
 
 # game/game_script.rpy:52
 translate ja game_script_b0993b5c:
 
     # "I gently open the door."
-    ""
+    "そっとドアを開ける。"
 
 # game/game_script.rpy:54
 translate ja game_script_4afacb09:
 
     # mc "Sayo--{nw}"
-    mc ""
+    mc "さよ――{nw}"
 
 # game/game_script.rpy:61
 translate ja game_script_c854fb6e:
 
     # mc "..ri?!"
-    mc ""
+    mc "…り？！"
 
 # game/game_script.rpy:64
 translate ja game_script_2d7cce6a:
 
     # s "[player]?!"
-    s ""
+    s "［player］？！"
 
 # game/game_script.rpy:67
 translate ja game_script_d61e5692:
 
     # "Sayori stands at the foot of her bed, a long rope in her hand."
-    ""
+    "さよりはベッドの端に立って、長いロープを握っている。"
 
 # game/game_script.rpy:68
 translate ja game_script_211cae4d:
 
     # "It's tied into a hangman's noose."
-    ""
+    "それは輪っかになっていた。"
 
 # game/game_script.rpy:69
 translate ja game_script_9c578752:
 
     # "In the shock of the moment, I release my grip on the cupcakes."
-    ""
+    "あまりの衝撃で、カップケーキを持っていた手が離れてしまう。"
 
 # game/game_script.rpy:70
 translate ja game_script_0ecfd99c:
 
     # "The tray clatters to the floor."
-    ""
+    "トレイが床にガシャっと落ちる。"
 
 # game/game_script.rpy:72
 translate ja game_script_1687cf73:
 
     # mc "Oh my God..."
-    mc ""
+    mc "うそだろ…"
 
 # game/game_script.rpy:75
 translate ja game_script_226ccb92:
 
     # s "It- It's--"
-    s ""
+    s "そ、それは――"
 
 # game/game_script.rpy:77
 translate ja game_script_88a30d76:
 
     # s "I-I'm so sorry, [player]!"
-    s ""
+    s "ご、ごめんなさい、［player］！"
 
 # game/game_script.rpy:79
 translate ja game_script_f063fb7d:
 
     # s "I'm sorry...{w}I'm sorry."
-    s ""
+    s "ごめんね…{w}ごめんなさい…"
 
 # game/game_script.rpy:82
 translate ja game_script_ed13f6ad:
 
     # "She breaks down into incoherent sobs."
-    ""
+    "さよりは泣き崩れて、言葉にならない嗚咽を漏らす。"
 
 # game/game_script.rpy:84
 translate ja game_script_73ce31aa:
 
     # mc "Jesus-...Sayori..."
-    mc ""
+    mc "さより…"
 
 # game/game_script.rpy:86
 translate ja game_script_0c6d3861:
 
     # "I should've known. It was obvious."
-    ""
+    "気づくべきだった。明らかだったのに。"
 
 # game/game_script.rpy:87
 translate ja game_script_accadaea:
 
     # "I didn't listen, didn't see the signs."
-    ""
+    "ちゃんと聞いてなかったし、サインも見逃してた。"
 
 # game/game_script.rpy:89
 translate ja game_script_5ba299ee:
 
     # "I...{w}almost lost her. My best friend."
-    ""
+    "俺は…{w}さよりを失いかけた。大切な親友を。"
 
 # game/game_script.rpy:90
 translate ja game_script_ea79bebf:
 
     # "The one I {i}grew up with{/i}."
-    ""
+    "ずっと一緒に育ってきた、あのさよりを。"
 
 # game/game_script.rpy:92
 translate ja game_script_5046be86:
 
     # "Sayori drops the noose, dropping to the floor with a heavy thud."
-    ""
+    "さよりはロープを手放し、ドサッと床に倒れ込む。"
 
 # game/game_script.rpy:93
 translate ja game_script_8fe1a0ff:
 
     # "Just the act of looking at it makes my heart sink."
-    ""
+    "それを見るだけで胸が締め付けられる。"
 
 # game/game_script.rpy:95
 translate ja game_script_e87e0575:
 
     # mc "Sayori..."
-    mc ""
+    mc "さより…"
 
 # game/game_script.rpy:96
 translate ja game_script_9eaafb91:
 
     # "She gets up and rushes towards me, clutching my shirt and crying into my chest."
-    ""
+    "さよりは立ち上がって、俺のシャツを掴みながら胸に顔を埋めて泣きじゃくる。"
 
 # game/game_script.rpy:98
 translate ja game_script_1f4c19a1:
 
     # s "I-I didn't want to face it again."
-    s ""
+    s "また向き合いたくなかったの…"
 
 # game/game_script.rpy:99
 translate ja game_script_162c8404:
 
     # s "What I...talked to you about."
-    s ""
+    s "あの…あなたに話したこと。"
 
 # game/game_script.rpy:101
 translate ja game_script_d2b08650:
 
     # s "I can't wake up every day like this."
-    s ""
+    s "毎日こんな気持ちで目覚めるなんて、もう無理…"
 
 # game/game_script.rpy:103
 translate ja game_script_dbd84492:
 
     # s "I {i}can't{/i}, [player]."
-    s ""
+    s "もう…{i}無理{/i}だよ、［player］。"
 
 # game/game_script.rpy:105
 translate ja game_script_6dc4287b:
 
     # "Words catch and stick in my throat, unable to come out."
-    ""
+    "言葉が喉につかえて、何も言えない。"
 
 # game/game_script.rpy:108
 translate ja game_script_e8a331c8:
 
     # s "I..."
-    s ""
+    s "わたし…"
 
 # game/game_script.rpy:109
 translate ja game_script_691045a1:
 
     # s "I can't."
-    s ""
+    s "できない…"
 
 # game/game_script.rpy:111
 translate ja game_script_b34ab636:
 
     # s "I just..."
-    s ""
+    s "ただ…"
 
 # game/game_script.rpy:114
 translate ja game_script_78ce1890:
 
     # "There is a short pause."
-    ""
+    "少し沈黙が続く。"
 
 # game/game_script.rpy:115
 translate ja game_script_94a1ff1e:
 
     # "All is silent, aside from Sayori's sobbing."
-    ""
+    "さよりのすすり泣く声だけが響いている。"
 
 # game/game_script.rpy:118
 translate ja game_script_d74d064a:
 
     # s "I...I was about to do it, [player]..."
-    s ""
+    s "わたし…もう少しでやっちゃうところだった、［player］…"
 
 # game/game_script.rpy:119
 translate ja game_script_dab8e8ba:
 
     # s "I was...so close. I could feel it."
-    s ""
+    s "本当に…あと少しだった。自分でも分かったの。"
 
 # game/game_script.rpy:121
 translate ja game_script_c7bb117c:
 
     # s "I'd have never seen you again."
-    s ""
+    s "もう二度とあなたに会えなくなるところだった。"
 
 # game/game_script.rpy:124
 translate ja game_script_5e006e6a:
 
     # "I finally pull myself together enough to speak."
-    ""
+    "ようやく気持ちを落ち着かせて、言葉を絞り出す。"
 
 # game/game_script.rpy:126
 translate ja game_script_7e85b45d:
 
     # mc "Sayori...{w}could you imagine if I'd found you like that?"
-    mc ""
+    mc "さより…{w}もし俺があんな姿の君を見つけてたらって、想像できる？"
 
 # game/game_script.rpy:127
 translate ja game_script_a2b4f5c1:
 
     # mc "My last memory of you, my best friend?"
-    mc ""
+    mc "それが俺の最後の君の記憶だったら…大切な親友の…"
 
 # game/game_script.rpy:130
 translate ja game_script_31cd6374:
 
     # s "I-I-I..."
-    s ""
+    s "わ、わたし…"
 
 # game/game_script.rpy:132
 translate ja game_script_c74f3dca:
 
     # s "I'm such a failure, [player]."
-    s ""
+    s "私ってほんとダメだよ、［player］。"
 
 # game/game_script.rpy:133
 translate ja game_script_8f12eec9:
 
     # s "I've only ever been selfish."
-    s ""
+    s "ずっと自分勝手だった。"
 
 # game/game_script.rpy:134
 translate ja game_script_6a29f8fb:
 
     # s "I can't even think about the only person that cares about me for one second."
-    s ""
+    s "自分のこと気にかけてくれる人のこと、ちっとも考えられなかった。"
 
 # game/game_script.rpy:136
 translate ja game_script_94fd5938:
 
     # mc "Sayori, please listen."
-    mc ""
+    mc "さより、ちゃんと聞いてくれ。"
 
 # game/game_script.rpy:137
 translate ja game_script_b72e96d2:
 
     # mc "There are so many people who care about you."
-    mc ""
+    mc "君のことを大事に思ってる人はたくさんいるんだ。"
 
 # game/game_script.rpy:138
 translate ja game_script_fe052d85:
 
     # mc "Monika, Yuri, Natsuki..."
-    mc ""
+    mc "モニカも、ユリも、ナツキも…"
 
 # game/game_script.rpy:139
 translate ja game_script_35850bd4:
 
     # mc "Your parents."
-    mc ""
+    mc "君の両親だって。"
 
 # game/game_script.rpy:140
 translate ja game_script_852b9563:
 
     # mc "I want-..."
-    mc ""
+    mc "俺は…"
 
 # game/game_script.rpy:142
 translate ja game_script_e2026954:
 
     # "I choke back a sob and steady myself again."
-    ""
+    "涙をこらえて、もう一度気持ちを落ち着かせる。"
 
 # game/game_script.rpy:144
 translate ja game_script_321480d5:
 
     # mc "I want you to remember that. You have a place here, and it wouldn't be the same."
-    mc ""
+    mc "それだけは忘れないでほしい。君にはここに居場所があるし、君がいなきゃダメなんだ。"
 
 # game/game_script.rpy:145
 translate ja game_script_2b35b6fe:
 
     # mc "..."
-    mc ""
+    mc "…"
 
 # game/game_script.rpy:146
 translate ja game_script_3a38f78a:
 
     # mc "And I know it wouldn't be."
-    mc ""
+    mc "本当にそう思うよ。"
 
 # game/game_script.rpy:147
 translate ja game_script_3495352a:
 
     # mc "You told me yourself yesterday."
-    mc ""
+    mc "昨日、君自身がそう言ってたじゃないか。"
 
 # game/game_script.rpy:153
 translate ja game_script_23d81314:
 
     # s "[player]..."
-    s ""
+    s "［player］…"
 
 # game/game_script.rpy:154
 translate ja game_script_b88b4335:
 
     # "She backs away, catching her breath."
-    ""
+    "さよりは少し離れて、息を整える。"
 
 # game/game_script.rpy:157
 translate ja game_script_cb759382:
 
     # mc "I'm here for you."
-    mc ""
+    mc "俺はずっと君の味方だよ。"
 
 # game/game_script.rpy:158
 translate ja game_script_7359bd89:
 
     # mc "We all are."
-    mc ""
+    mc "みんなもそうだ。"
 
 # game/game_script.rpy:159
 translate ja game_script_d355debe:
 
     # mc "No matter what."
-    mc ""
+    mc "何があっても。"
 
 # game/game_script.rpy:163
 translate ja game_script_62930ff7:
 
     # s "[player], don't..."
-    s ""
+    s "［player］、やめて…"
 
 # game/game_script.rpy:166
 translate ja game_script_2ddb555d:
 
     # mc "Sayori, you need to talk to somebody professional about this."
-    mc ""
+    mc "さより、ちゃんと専門の人に相談しないとダメだよ。"
 
 # game/game_script.rpy:167
 translate ja game_script_39f68306:
 
     # mc "Please...sooner rather than later."
-    mc ""
+    mc "お願いだから…できるだけ早く。"
 
 # game/game_script.rpy:173
 translate ja game_script_1f3303ab:
 
     # s "I don't think I-I'm ready..."
-    s ""
+    s "まだ…その、覚悟できてないかも…"
 
 # game/game_script.rpy:174
 translate ja game_script_b7884adf:
 
     # s "W-we can go another time."
-    s ""
+    s "また今度でもいいかな…"
 
 # game/game_script.rpy:176
 translate ja game_script_77348571:
 
     # s "There's still...the festival..."
-    s ""
+    s "まだ…文化祭もあるし…"
 
 # game/game_script.rpy:177
 translate ja game_script_8e339ee2:
 
     # s "I wouldn't want you to keep the others waiting..."
-    s ""
+    s "みんなを待たせたくないし…"
 
 # game/game_script.rpy:179
 translate ja game_script_0f7425d2:
 
     # mc "Screw the festival."
-    mc ""
+    mc "文化祭なんてどうでもいいよ。"
 
 # game/game_script.rpy:180
 translate ja game_script_3ed8bb9a:
 
     # mc "You're more important to me than that."
-    mc ""
+    mc "君の方がずっと大事だ。"
 
 # game/game_script.rpy:181
 translate ja game_script_763600d7:
 
     # mc "Sayori...this isn't just something we can just {i}put off{/i}."
-    mc ""
+    mc "さより…これは後回しにできることじゃないんだ。"
 
 # game/game_script.rpy:183
 translate ja game_script_7fa5db4a:
 
     # mc "What if something like this happens tomorrow? Or when I'm not here?"
-    mc ""
+    mc "もしまたこんなことが明日起きたら…俺がいなかったらどうするんだ？"
 
 # game/game_script.rpy:184
 translate ja game_script_7cf8353a:
 
     # mc "I'm not going to force you...but I really think you should."
-    mc ""
+    mc "無理にとは言わないけど…本当に相談した方がいいと思うんだ。"
 
 # game/game_script.rpy:185
 translate ja game_script_811263f7:
 
     # mc "They can help."
-    mc ""
+    mc "きっと助けてくれるよ。"
 
 # game/game_script.rpy:186
 translate ja game_script_03a04da1:
 
     # mc "If I didn’t do everything in my power to help you, I could never forgive myself."
-    mc ""
+    mc "俺にできること全部やらなかったら、絶対に自分を許せない。"
 
 # game/game_script.rpy:188
 translate ja game_script_0fa0ca9b:
 
     # "She sniffles, wiping her face with her sleeve."
-    ""
+    "彼女は鼻をすすりながら、袖で顔を拭う。"
 
 # game/game_script.rpy:191
 translate ja game_script_62a119a2:
 
     # s "You care about me too much, [player]."
-    s ""
+    s "［player］、気にしすぎだよ…"
 
 # game/game_script.rpy:193
 translate ja game_script_f9085243:
 
     # s "But...{w} I-I guess you're right..."
-    s ""
+    s "でも…{w}やっぱり、君の言う通りかも…"
 
 # game/game_script.rpy:196
 translate ja game_script_f7a99b6c:
 
     # "She gazes out the window for a long, silent moment."
-    ""
+    "彼女はしばらく窓の外をぼんやり見つめている。"
 
 # game/game_script.rpy:199
 translate ja game_script_1c6f029f:
 
     # s "I-I don't want to feel like this anymore."
-    s ""
+    s "もうこんな気持ちでいたくない…"
 
 # game/game_script.rpy:200
 translate ja game_script_f1ba3dc7:
 
     # s "If they can help..."
-    s ""
+    s "もし助けてくれるなら…"
 
 # game/game_script.rpy:202
 translate ja game_script_eca9793e:
 
     # s "I'll try."
-    s ""
+    s "やってみる…"
 
 # game/game_script.rpy:205
 translate ja game_script_e4980b51:
 
     # "I let out a deep sigh, while my adrenaline slowly subsides."
-    ""
+    "俺は深く息を吐いて、少しずつ落ち着いていく。"
 
 # game/game_script.rpy:206
 translate ja game_script_59008570:
 
     # "However, I still can’t shake the anxiety brought on by all that’s transpired."
-    ""
+    "でも、今日のことが頭から離れなくて、不安が消えない。"
 
 # game/game_script.rpy:207
 translate ja game_script_cef3b8a5:
 
     # "I just want her to be okay..."
-    ""
+    "ただ、彼女が無事でいてほしいだけなのに…"
 
 # game/game_script.rpy:209
 translate ja game_script_b601bb12:
 
     # mc "Okay, we should leave now."
-    mc ""
+    mc "そろそろ行こうか。"
 
 # game/game_script.rpy:210
 translate ja game_script_eceb1560:
 
     # mc "We can take the bus."
-    mc ""
+    mc "バスで行こう。"
 
 # game/game_script.rpy:213
 translate ja game_script_7a206056:
 
     # s "W-well..."
-    s ""
+    s "えっと…"
 
 # game/game_script.rpy:214
 translate ja game_script_48db5161:
 
     # s "I-I need to get changed first."
-    s ""
+    s "着替えなきゃ…"
 
 # game/game_script.rpy:216
 translate ja game_script_db0f1615:
 
     # mc "O-oh!"
-    mc ""
+    mc "あ、そっか！"
 
 # game/game_script.rpy:217
 translate ja game_script_42d3094e:
 
     # mc "Of course..."
-    mc ""
+    mc "うん、もちろん…"
 
 # game/game_script.rpy:219
 translate ja game_script_3fbb9852:
 
     # "I nod, and take a step outside the door, reaching down to pick up the rope first, taking it with me."
-    ""
+    "頷いて部屋を出る前に、ロープを拾って持っていく。"
 
 # game/game_script.rpy:220
 translate ja game_script_c199bc28:
 
     # "{i}Just in case{/i}."
-    ""
+    "念のために。"
 
 # game/game_script.rpy:222
 translate ja game_script_e12d3b1f:
 
     # "She gently nods, shutting the door in my face."
-    ""
+    "彼女は静かに頷いて、そっとドアを閉める。"
 
 # game/game_script.rpy:229
 translate ja game_script_b064db71:
 
     # "Again, I'm a little anxious, leaving her alone right after...{w}{i}that{/i}."
-    ""
+    "また一人にしてしまうのが、やっぱりちょっと不安だ…あんなことの直後だし。"
 
 # game/game_script.rpy:230
 translate ja game_script_64c3c9bf:
 
     # "But she does need her privacy."
-    ""
+    "でも、彼女にもプライバシーは必要だよな。"
 
 # game/game_script.rpy:231
 translate ja game_script_cf84f0ed:
 
     # "I kneel down, beginning to clean up the cupcake massacre littering the floor with a towel."
-    ""
+    "しゃがんで、床に散らばったカップケーキの惨事をタオルで片付け始める。"
 
 # game/game_script.rpy:232
 translate ja game_script_21408033:
 
     # "Natsuki is going to kill me."
-    ""
+    "ナツキに怒られそうだな、これ。"
 
 # game/game_script.rpy:233
 translate ja game_script_5865ec9e:
 
     # "I return downstairs and untie the noose, dropping the loose rope in the trash."
-    ""
+    "階下に戻って、輪っかになったロープをほどいてゴミ箱に捨てる。"
 
 # game/game_script.rpy:234
 translate ja game_script_d84e4e6b:
 
     # "My hands are shaking the entire time, they're barely able to undo the knot."
-    ""
+    "手がずっと震えてて、結び目をほどくのもやっとだった。"
 
 # game/game_script.rpy:235
 translate ja game_script_c44fa2e5:
 
     # "How did she learn to do that..?"
-    ""
+    "こんなの、どうやって覚えたんだろ…？"
 
 # game/game_script.rpy:236
 translate ja game_script_11892a07:
 
     # "I linger downstairs for a minute, trying to relax before heading back upstairs."
-    ""
+    "しばらく階下で落ち着こうとして、上に戻る前に深呼吸する。"
 
 # game/game_script.rpy:237
 translate ja game_script_e9851d0e:
 
     # "Taking a deep breath, I sit down for a minute."
-    ""
+    "深呼吸して、ちょっと座る。"
 
 # game/game_script.rpy:238
 translate ja game_script_2b018eab:
 
     # "I shut my eyes, and rest my head in my hands."
-    ""
+    "目を閉じて、手に顔を埋める。"
 
 # game/game_script.rpy:239
 translate ja game_script_516f51cb:
 
     # "I take a few deep breaths, hoping to level off my stress."
-    ""
+    "何度か深呼吸して、気持ちを落ち着かせようとする。"
 
 # game/game_script.rpy:243
 translate ja game_script_988f75ac:
 
     # "She's {i}probably{/i} ready by now."
-    ""
+    "もうそろそろ準備できたかな。"
 
 # game/game_script.rpy:244
 translate ja game_script_3e6add8e:
 
     # "I knock on Sayori's door, and she opens it immediately."
-    ""
+    "さよりの部屋のドアをノックすると、すぐに開けてくれる。"
 
 # game/game_script.rpy:250
 translate ja game_script_1f56feb7:
 
     # mc "Ready?"
-    mc ""
+    mc "準備できた？"
 
 # game/game_script.rpy:251
 translate ja game_script_d1c4b4d1:
 
     # "Sayori nods once, her eyes glued to the floor."
-    ""
+    "さよりはうなずくだけで、目は床から離れない。"
 
 # game/game_script.rpy:255
 translate ja game_script_cdef04d7:
 
     # s "T-this is what's best for me, right?"
-    s ""
+    s "これが…私にとって一番いいことなんだよね？"
 
 # game/game_script.rpy:259
 translate ja game_script_eb0687e9:
 
     # "Her light blue eyes stare through me, expectant of an answer"
-    ""
+    "彼女の淡い青い瞳が、答えを求めてじっとこちらを見つめてくる。"
 
 # game/game_script.rpy:260
 translate ja game_script_04fe7291:
 
     # "Seeing her like this is so...{w}unsettling."
-    ""
+    "こんなさよりを見るのは…{w}なんだか落ち着かない。"
 
 # game/game_script.rpy:261
 translate ja game_script_5be87876:
 
     # "It’s like someone rewired her brain overnight to become this husk of herself."
-    ""
+    "まるで一晩で別人になっちゃったみたいだ。"
 
 # game/game_script.rpy:262
 translate ja game_script_a20cefa7:
 
     # "..."
-    ""
+    "…"
 
 # game/game_script.rpy:263
 translate ja game_script_81b6356f:
 
     # "I shouldn't think like that."
-    ""
+    "そんなこと考えちゃダメだ。"
 
 # game/game_script.rpy:264
 translate ja game_script_516104f5:
 
     # "She's my best friend, and always will be."
-    ""
+    "さよりは俺の大切な親友だ。これからもずっと。"
 
 # game/game_script.rpy:265
 translate ja game_script_ef751428:
 
     # "I take a deep breath, and sigh."
-    ""
+    "深呼吸して、ため息をつく。"
 
 # game/game_script.rpy:267
 translate ja game_script_8e9c953b:
 
     # mc "I'll be honest with you...{w}I don't know."
-    mc ""
+    mc "正直に言うと…{w}俺にも分からない。"
 
 # game/game_script.rpy:268
 translate ja game_script_64ab6bc6:
 
     # mc "But I know that it's worth a shot."
-    mc ""
+    mc "でも、やってみる価値はあると思う。"
 
 # game/game_script.rpy:269
 translate ja game_script_6895e3f1:
 
     # mc "Come on, let's get going."
-    mc ""
+    mc "さあ、行こう。"
 
 # game/game_script.rpy:286
 translate ja game_script_098ee451:
 
     # "I take a seat in an empty, but brightly lit waiting room."
-    ""
+    "誰もいないけど明るい待合室に座る。"
 
 # game/game_script.rpy:287
 translate ja game_script_060642b7:
 
     # "My anxiety consumes me as I wait for Sayori to walk out from the doctor’s office."
-    ""
+    "さよりが診察室から出てくるのを待つ間、不安で頭がいっぱいになる。"
 
 # game/game_script.rpy:288
 translate ja game_script_0e2a3da8:
 
     # "I have to lock my hands in place in order to stop them from showing my increasing worry."
-    ""
+    "心配が顔に出ないように、手をぎゅっと握りしめる。"
 
 # game/game_script.rpy:289
 translate ja game_script_11741ed6:
 
     # "I subconsciously resort to tapping my foot on the floor and looking elsewhere in the waiting room."
-    ""
+    "気づけば足で床をトントンして、待合室のあちこちを見回している。"
 
 # game/game_script.rpy:290
 translate ja game_script_ac25c0b0:
 
     # "It’s the only thing I’m going to be able to do for quite a while."
-    ""
+    "しばらくはそれしかできそうにない。"
 
 # game/game_script.rpy:292
 translate ja game_script_6920d10f:
 
     # "Suddenly, my pocket rumbles, as my phone springs to life."
-    ""
+    "突然ポケットが震えて、スマホが鳴り出す。"
 
 # game/game_script.rpy:293
 translate ja game_script_d5aeed6b:
 
     # "I quickly pull it out and notice a text from Monika."
-    ""
+    "慌てて取り出すと、モニカからのメッセージだった。"
 
 # game/game_script.rpy:294
 translate ja game_script_7e081204:
 
     # "Then it hits me...{w}today was the day of the festival."
-    ""
+    "そうだ…{w}今日は文化祭の日だった。"
 
 # game/game_script.rpy:295
 translate ja game_script_beac872d:
 
     # "Damn it. I should have told her that I couldn’t make it."
-    ""
+    "しまった、行けないってちゃんと伝えておくべきだった。"
 
 # game/game_script.rpy:298
 translate ja game_script_da7b12c0:
 
     # m "hey [player_l], where are you??"
-    m ""
+    m "ねえ[player_l]、どこにいるの？？"
 
 # game/game_script.rpy:300
 translate ja game_script_428b976c:
 
     # "I have to reply."
-    ""
+    "返事しなきゃ。"
 
 # game/game_script.rpy:302
 translate ja game_script_070626b3:
 
     # mc "Sorry got caught up"
-    mc ""
+    mc "ごめん、ちょっとバタバタしてて"
 
 # game/game_script.rpy:303
 translate ja game_script_acd509b0:
 
     # mc "I don’t think I’ll be able to make it to the festival"
-    mc ""
+    mc "文化祭、行けそうにないかも"
 
 # game/game_script.rpy:304
 translate ja game_script_922bf303:
 
     # m "[player_l], please don’t tell me you’ve got cold feet about the poems or something"
-    m ""
+    m "まさか詩の発表が怖くなったとかじゃないよね、[player_l]？"
 
 # game/game_script.rpy:305
 translate ja game_script_07d0e754:
 
     # mc "It’s an emergency"
-    mc ""
+    mc "緊急事態なんだ"
 
 # game/game_script.rpy:306
 translate ja game_script_1c81b025:
 
     # m "oh no, whats going on?"
-    m ""
+    m "えっ、どうしたの？"
 
 # game/game_script.rpy:307
 translate ja game_script_f13f1a54:
 
     # mc "I dunno if I can tell you rn"
-    mc ""
+    mc "今はちょっと言えないかも"
 
 # game/game_script.rpy:308
 translate ja game_script_304b1f1a:
 
     # m "thats okay"
-    m ""
+    m "そっか、わかった"
 
 # game/game_script.rpy:309
 translate ja game_script_8feb0029:
 
     # m "just please see if you can make it, or let me know if you cant"
-    m ""
+    m "とにかく来れそうなら来て、無理なら教えてね"
 
 # game/game_script.rpy:310
 translate ja game_script_f9ecebb2:
 
     # m "and if you know where sayori or natsuki are, can you tell them too?"
-    m ""
+    m "あと、さよりかナツキの居場所わかったら伝えてくれる？"
 
 # game/game_script.rpy:311
 translate ja game_script_87ef2cd0:
 
     # mc "OK I will"
-    mc ""
+    mc "うん、わかった"
 
 # game/game_script.rpy:313
 translate ja game_script_7fed3493:
 
     # "I peer through a small flute-glass window on the door."
-    ""
+    "ドアの小さなガラス越しに中を覗く。"
 
 # game/game_script.rpy:314
 translate ja game_script_24135849:
 
     # "I can see what appears to be Sayori breaking down in her chair, her arms folded on the doctor’s desk, her head rested upon them."
-    ""
+    "さよりが椅子で崩れ落ちてるのが見える。腕を机に伏せて、顔を埋めてる。"
 
 # game/game_script.rpy:315
 translate ja game_script_1d4989ab:
 
     # "I’m stricken with guilt, as it was my own negligence that led her to this."
-    ""
+    "自分のせいでこうなったんだって、罪悪感でいっぱいになる。"
 
 # game/game_script.rpy:316
 translate ja game_script_c46788a8:
 
     # "Behind me, the door that leads from the entrance to my waiting room swings open, and a couple of nurses walk by."
-    ""
+    "後ろで待合室のドアが開いて、看護師さんが何人か通り過ぎていく。"
 
 # game/game_script.rpy:318
 translate ja game_script_3a6f204e:
 
     # "But my phone buzzes again in my hand, and I turn my attention back to it."
-    ""
+    "でもまたスマホが震えて、そっちに意識が戻る。"
 
 # game/game_script.rpy:320
 translate ja game_script_ff09dd46:
 
     # m "its just me and yuri here, shes really nervous about performing as is"
-    m ""
+    m "今ここにいるのは私とユリだけ。ユリ、発表のことでめっちゃ緊張してるの"
 
 # game/game_script.rpy:321
 translate ja game_script_424011c2:
 
     # m "im trying to pep her up but without you guys, i dont think shell do it"
-    m ""
+    m "励ましてるけど、みんながいないと無理っぽい"
 
 # game/game_script.rpy:322
 translate ja game_script_39088847:
 
     # mc "I know"
-    mc ""
+    mc "うん、わかってる"
 
 # game/game_script.rpy:323
 translate ja game_script_070af8a4:
 
     # mc "I’m sorry it’s a personal issue"
-    mc ""
+    mc "ごめん、個人的な事情なんだ"
 
 # game/game_script.rpy:324
 translate ja game_script_4a202c90:
 
     # mc "Can’t promise anything but I’ll try to get there before it’s over ok?"
-    mc ""
+    mc "約束はできないけど、終わる前に行けるよう頑張るよ"
 
 # game/game_script.rpy:325
 translate ja game_script_10c89ca0:
 
     # m "okay, thx"
-    m ""
+    m "うん、ありがとう"
 
 # game/game_script.rpy:329
 translate ja game_script_00229c7c:
 
     # "A couple of minutes of idle waiting pass before I get another message from her."
-    ""
+    "何分かぼーっと待ってたら、またメッセージが来た。"
 
 # game/game_script.rpy:331
 translate ja game_script_f093c9c4:
 
     # m "nvm everyones here already and theyre waiting"
-    m ""
+    m "やっぱいいや、みんなもう来てて待ってる"
 
 # game/game_script.rpy:332
 translate ja game_script_53711d97:
 
     # m "probs gonna have to cancel the performance"
-    m ""
+    m "たぶん発表は中止になりそう"
 
 # game/game_script.rpy:334
 translate ja game_script_f077a9c5:
 
     # "I return the phone to my pocket, running my hands through my hair."
-    ""
+    "スマホをポケットにしまって、髪をぐしゃっとかきあげる。"
 
 # game/game_script.rpy:335
 translate ja game_script_dbdd01fa:
 
     # "Why now?"
-    ""
+    "なんで今なんだよ…"
 
 # game/game_script.rpy:336
 translate ja game_script_9041f8f1:
 
     # "I feel terrible for Sayori, the fact that she’s in such pain right now and how oblivious I was to all of it."
-    ""
+    "さよりがこんなに苦しんでるのに、俺は全然気づいてなかった…ほんとに最悪だ。"
 
 # game/game_script.rpy:337
 translate ja game_script_42f823c1:
 
     # "But on the other hand, I also feel like I’ve put Monika and Yuri on the spot in front of all of our classmates."
-    ""
+    "でも一方で、モニカとユリもみんなの前で困らせちゃった気がする。"
 
 # game/game_script.rpy:338
 translate ja game_script_ed101de0:
 
     # "Monika and Yuri..."
-    ""
+    "モニカとユリ…"
 
 # game/game_script.rpy:339
 translate ja game_script_cfbbfc3a:
 
     # "That reminds me of what Monika just said."
-    ""
+    "さっきモニカが言ってたことを思い出す。"
 
 # game/game_script.rpy:340
 translate ja game_script_2915010a:
 
     # "Where {i}is{/i} Natsuki?"
-    ""
+    "ナツキは…{i}どこにいるんだ？{/i}"
 
 # game/game_script.rpy:342
 translate ja game_script_8c669595:
 
     # "What the hell is with today?"
-    ""
+    "今日ってなんなんだよ…"
 
 # game/game_script.rpy:343
 translate ja game_script_475c9ab5:
 
     # "I can feel the anxiety rising up again, crushing my chest."
-    ""
+    "また不安が胸を締め付けてくる。"
 
 # game/game_script.rpy:344
 translate ja game_script_314fcf71:
 
     # "I try to take a deep breath."
-    ""
+    "深呼吸しようとする。"
 
 # game/game_script.rpy:345
 translate ja game_script_d7b9c94e:
 
     # "In."
-    ""
+    "吸って…"
 
 # game/game_script.rpy:346
 translate ja game_script_02def2f0:
 
     # "Out."
-    ""
+    "吐いて…"
 
 # game/game_script.rpy:347
 translate ja game_script_a9a360f5:
 
     # "Calm do---{nw}"
-    ""
+    "落ち着け…{nw}"
 
 # game/game_script.rpy:349
 translate ja game_script_aa3ffd3b:
 
     # "My phone buzzes again."
-    ""
+    "またスマホが鳴る。"
 
 # game/game_script.rpy:351
 translate ja game_script_75516838:
 
     # m "are you sure you don’t know where sayori or natsuki are?"
-    m ""
+    m "ほんとにさよりかナツキの居場所知らないの？"
 
 # game/game_script.rpy:353
 translate ja game_script_24b7313d:
 
     # "I’m almost tempted to just leave the message alone..."
-    ""
+    "もう返信せずに放っておきたくなる…"
 
 # game/game_script.rpy:354
 translate ja game_script_253e945d:
 
     # "But I give in."
-    ""
+    "でも結局返事してしまう。"
 
 # game/game_script.rpy:356
 translate ja game_script_126c355d:
 
     # mc "I already said I don’t know"
-    mc ""
+    mc "さっきも言ったけど、本当に知らないんだ"
 
 # game/game_script.rpy:358
 translate ja game_script_67c9fb6b:
 
     # "I don’t like lying to people, but..."
-    ""
+    "嘘つくのは嫌だけど…"
 
 # game/game_script.rpy:359
 translate ja game_script_8415ca72:
 
     # "At this point, I can’t tell her about Sayori. It’d seem like I’m throwing her under the bus anyway."
-    ""
+    "今はさよりのこと言えない。言ったら彼女を裏切るみたいだし…"
 
 # game/game_script.rpy:360
 translate ja game_script_cb2de4f4:
 
     # "And I really don’t have a clue where Natsuki is."
-    ""
+    "ナツキの居場所も本当に分からないし。"
 
 # game/game_script.rpy:361
 translate ja game_script_81216afa:
 
     # "It’s just a white lie. For their sake."
-    ""
+    "これは優しい嘘…みんなのために。"
 
 # game/game_script.rpy:363
 translate ja game_script_e45b3e46:
 
     # mc "I texted them but got nothing back"
-    mc ""
+    mc "二人にメッセージ送ったけど、返事なかったよ"
 
 # game/game_script.rpy:364
 translate ja game_script_e95aa5f3:
 
     # m "well, it doesnt really matter now anyway"
-    m ""
+    m "まあ、もうどうでもいいけどね"
 
 # game/game_script.rpy:365
 translate ja game_script_803ddf77:
 
     # m "we had to cancel our performance"
-    m ""
+    m "発表は中止になっちゃったし"
 
 # game/game_script.rpy:366
 translate ja game_script_b5025185:
 
     # m "ppl are complaining about the cupcakes not being here"
-    m ""
+    m "カップケーキがないってみんな文句言ってるし"
 
 # game/game_script.rpy:367
 translate ja game_script_a9e9fe9e:
 
     # m "yuris gone for some fresh air"
-    m ""
+    m "ユリは気分転換に外に出てるよ"
 
 # game/game_script.rpy:369
 translate ja game_script_61fae46f:
 
     # "Crap."
-    ""
+    "やば…"
 
 # game/game_script.rpy:371
 translate ja game_script_d71fb389:
 
     # mc "I’m really sorry Monika"
-    mc ""
+    mc "ごめん、モニカ"
 
 # game/game_script.rpy:372
 translate ja game_script_444e7bdb:
 
     # m "its fine"
-    m ""
+    m "いいよ、気にしないで"
 
 # game/game_script.rpy:374
 translate ja game_script_3f739ce1:
 
     # "I sigh."
-    ""
+    "ため息をつく。"
 
 # game/game_script.rpy:375
 translate ja game_script_59577f7f:
 
     # "Now I’ve disappointed Monika because I couldn’t bring myself to tell her what happened."
-    ""
+    "結局、事情を言えなくてモニカまでがっかりさせてしまった。"
 
 # game/game_script.rpy:376
 translate ja game_script_986216fe:
 
     # "I type out a message for Natsuki, hoping to get some answers."
-    ""
+    "ナツキにメッセージを送って、何か返事が来ることを願う。"
 
 # game/game_script.rpy:378
 translate ja game_script_7877f36d:
 
     # mc "Hey Natsuki you okay? Monika said you were a no-show at the festival"
-    mc ""
+    mc "ナツキ、大丈夫？モニカが文化祭に来なかったって言ってたけど"
 
 # game/game_script.rpy:382
 translate ja game_script_c915662f:
 
     # "A couple of minutes pass with no response."
-    ""
+    "何分か待っても返事は来ない。"
 
 # game/game_script.rpy:383
 translate ja game_script_e002d6d6:
 
     # "The message doesn't even mark as read."
-    ""
+    "既読にもならない。"
 
 # game/game_script.rpy:387
 translate ja game_script_4ec8bb2b:
 
     # "The office door swings open, and Sayori emerges."
-    ""
+    "診察室のドアが開いて、さよりが出てくる。"
 
 # game/game_script.rpy:391
 translate ja game_script_e9c0686e:
 
     # "Sayori quietly walks over, tears streaming down her cheeks."
-    ""
+    "さよりが静かに歩いてきて、頬には涙が流れている。"
 
 # game/game_script.rpy:392
 translate ja game_script_24fde294:
 
     # "I quickly stand up to ask about her wellbeing."
-    ""
+    "慌てて立ち上がって、さよりの様子を聞こうとする。"
 
 # game/game_script.rpy:395
 translate ja game_script_0bf03b92:
 
     # "Before I have time to say anything, she locks me in a tight embrace and sobs into my chest."
-    ""
+    "何か言う間もなく、さよりが強く抱きしめてきて、俺の胸で泣きじゃくる。"
 
 # game/game_script.rpy:397
 translate ja game_script_2e4deceb:
 
     # mc "Hey, it’s okay."
-    mc ""
+    mc "大丈夫だよ。"
 
 # game/game_script.rpy:399
 translate ja game_script_59ea28b2:
 
     # s "I...I-I..."
-    s ""
+    s "わ、わたし…"
 
 # game/game_script.rpy:400
 translate ja game_script_760f63d6:
 
     # mc "Don’t worry, take your time."
-    mc ""
+    mc "無理しなくていいよ、ゆっくりでいいから。"
 
 # game/game_script.rpy:401
 translate ja game_script_08e0a6bc:
 
     # mc "I’m not going anywhere."
-    mc ""
+    mc "俺はここにいるから。"
 
 # game/game_script.rpy:403
 translate ja game_script_d898a10a:
 
     # s "{i}I-I don’t deserve this!{/i}"
-    s ""
+    s "{i}こんなの、わたしにはもったいないよ！{/i}"
 
 # game/game_script.rpy:404
 translate ja game_script_e87e0575_1:
 
     # mc "Sayori..."
-    mc ""
+    mc "さより…"
 
 # game/game_script.rpy:407
 translate ja game_script_172cf4b7:
 
     # "It hurts so much to see her like this."
-    ""
+    "こんなさよりを見るのは、ほんとに辛い。"
 
 # game/game_script.rpy:410
 translate ja game_script_dc54df45:
 
     # s "It’s t-true! I really messed up everything..."
-    s ""
+    s "本当だもん！全部めちゃくちゃにしちゃった…"
 
 # game/game_script.rpy:411
 translate ja game_script_125a05a4:
 
     # s "You don’t get to spend time and have fun with any of the other club members."
-    s ""
+    s "みんなと楽しく過ごす時間もなくなっちゃったし…"
 
 # game/game_script.rpy:413
 translate ja game_script_dfa0e99d:
 
     # s "Monika’s probably upset about us not showing up for the festival."
-    s ""
+    s "モニカも文化祭に来なかったことで怒ってるかも…"
 
 # game/game_script.rpy:414
 translate ja game_script_1a82a9a8:
 
     # s "Poor Yuri’s gonna be so embarrassed..."
-    s ""
+    s "ユリもきっと恥ずかしい思いしてる…"
 
 # game/game_script.rpy:416
 translate ja game_script_94b997af:
 
     # s "...and it’s all my fault."
-    s ""
+    s "全部わたしのせいだよ…"
 
 # game/game_script.rpy:419
 translate ja game_script_4c3c723b:
 
     # "My mind wanders back to Monika’s texts..."
-    ""
+    "モニカのメッセージを思い返す…"
 
 # game/game_script.rpy:420
 translate ja game_script_c216266a:
 
     # "Not telling her the whole story seems to have been a good call, for what that’s worth."
-    ""
+    "全部話さなかったのは正解だったかもしれない。"
 
 # game/game_script.rpy:421
 translate ja game_script_3f989ec2:
 
     # "I need to find a way to fix this."
-    ""
+    "なんとかしないと…"
 
 # game/game_script.rpy:423
 translate ja game_script_7f5f2951:
 
     # mc "Sayori, look at me."
-    mc ""
+    mc "さより、こっち見て。"
 
 # game/game_script.rpy:426
 translate ja game_script_ebb0a7e1:
 
     # "She backs out of the hug and silently opens her eyes, staring into mine once again."
-    ""
+    "さよりは抱きしめるのをやめて、静かに目を開けて俺を見つめる。"
 
 # game/game_script.rpy:428
 translate ja game_script_5542f90a:
 
     # mc "Look, Sayori. I really care about you, and so do the others at the club."
-    mc ""
+    mc "いいか、さより。俺は君のこと本当に大事に思ってるし、みんなもそうだよ。"
 
 # game/game_script.rpy:429
 translate ja game_script_125b59e4:
 
     # mc "They would understand why we weren’t at the club today. Besides, that isn’t anything to worry about right now."
-    mc ""
+    mc "今日クラブに来れなかった理由も、みんな分かってくれるよ。今はそんなこと気にしなくていい。"
 
 # game/game_script.rpy:431
 translate ja game_script_24f165e7:
 
     # mc "If anything, you should tell them the truth about your depression."
-    mc ""
+    mc "むしろ、みんなに自分のこと正直に話した方がいいと思うよ。"
 
 # game/game_script.rpy:432
 translate ja game_script_9afb2231:
 
     # mc "I know for a fact that they’d be supportive. They’re your friends."
-    mc ""
+    mc "絶対みんな味方になってくれるって。友達なんだから。"
 
 # game/game_script.rpy:434
 translate ja game_script_c5ade5a8:
 
     # s "I don’t know..."
-    s ""
+    s "どうかな…"
 
 # game/game_script.rpy:436
 translate ja game_script_7c92b445:
 
     # s "I just don’t want to make a big deal out of it, especially with the other club members and-{w=0.4}{nw}"
-    s ""
+    s "みんなに大げさにされたくないし…特に部のみんなには…{w=0.4}{nw}"
 
 # game/game_script.rpy:439
 translate ja game_script_ec7fea2a:
 
     # "I stand up and put my hand on her shoulder."
-    ""
+    "立ち上がって、そっと肩に手を置く。"
 
 # game/game_script.rpy:441
 translate ja game_script_0a95b138:
 
     # mc "Sayori, I don’t think you understand how big of a deal this really is."
-    mc ""
+    mc "さより、これがどれだけ大事なことか分かってないと思うよ。"
 
 # game/game_script.rpy:442
 translate ja game_script_27226702:
 
     # mc "You nearly k-...{w=0.4}{nw}"
-    mc ""
+    mc "君はもう少しで…{w=0.4}{nw}"
 
 # game/game_script.rpy:445
 translate ja game_script_ed9b6a19:
 
     # "My voice cracks."
-    ""
+    "声が震える。"
 
 # game/game_script.rpy:446
 translate ja game_script_b87607fb:
 
     # "I compose myself."
-    ""
+    "気持ちを落ち着かせる。"
 
 # game/game_script.rpy:448
 translate ja game_script_4cf61e75:
 
     # mc "You nearly died."
-    mc ""
+    mc "君は死にかけたんだよ。"
 
 # game/game_script.rpy:451
 translate ja game_script_dcd1d071:
 
     # "Sayori closes her eyes and takes a stuttered breath."
-    ""
+    "さよりは目を閉じて、途切れ途切れに息をする。"
 
 # game/game_script.rpy:452
 translate ja game_script_3d29b334:
 
     # "It’s like the words are finally hitting her."
-    ""
+    "その言葉がようやく心に響いたみたいだ。"
 
 # game/game_script.rpy:454
 translate ja game_script_6b065b83:
 
     # "She looks away, wipes her eyes and changes the topic quickly."
-    ""
+    "目をそらして、涙を拭いながら話題を変える。"
 
 # game/game_script.rpy:457
 translate ja game_script_9735a511:
 
     # s "W-What about the festival?"
-    s ""
+    s "ぶ、文化祭は…？"
 
 # game/game_script.rpy:459
 translate ja game_script_c4f2131c:
 
     # s "Did you talk to Monika about it yet?"
-    s ""
+    s "モニカにはもう話した？"
 
 # game/game_script.rpy:461
 translate ja game_script_e9f1a195:
 
     # "I hesitate."
-    ""
+    "少し迷う。"
 
 # game/game_script.rpy:462
 translate ja game_script_11b897f3:
 
     # "I don’t want Sayori to feel like it’s her fault that the performance was cancelled, so I decide to start with Natsuki’s absence."
-    ""
+    "発表が中止になったのがさよりのせいだと思わせたくなくて、まずナツキが来なかったことから話すことにした。"
 
 # game/game_script.rpy:464
 translate ja game_script_b730b467:
 
     # mc "Well...Natsuki didn’t show up either."
-    mc ""
+    mc "えっと…ナツキも来なかったんだ。"
 
 # game/game_script.rpy:465
 translate ja game_script_f7a2f400:
 
     # mc "Monika had to cancel the performance, unfortunately."
-    mc ""
+    mc "だから、モニカが発表を中止するしかなかったんだ。"
 
 # game/game_script.rpy:467
 translate ja game_script_a8dbd88e:
 
     # s "You didn’t...{w}You didn’t tell her, did you?"
-    s ""
+    s "まさか…{w}モニカに言ってないよね？"
 
 # game/game_script.rpy:469
 translate ja game_script_c63ce692:
 
     # s "About-{w=0.4}{nw}"
-    s ""
+    s "あのこと…{w=0.4}{nw}"
 
 # game/game_script.rpy:471
 translate ja game_script_8aca707a:
 
     # mc "I didn’t."
-    mc ""
+    mc "言ってないよ。"
 
 # game/game_script.rpy:473
 translate ja game_script_f2221ff1:
 
     # mc "Unless you want to talk to her about it yourself, she won't know."
-    mc ""
+    mc "君が自分で話さない限り、モニカは知らないままだよ。"
 
 # game/game_script.rpy:474
 translate ja game_script_1b199792:
 
     # mc "Okay?"
-    mc ""
+    mc "いい？"
 
 # game/game_script.rpy:477
 translate ja game_script_eabc28ba:
 
     # "Sayori nods, wiping her eyes with her forearm once more."
-    ""
+    "さよりはもう一度腕で涙を拭いながら、うなずく。"
 
 # game/game_script.rpy:480
 translate ja game_script_8210b50f:
 
     # s "I...{w}think I’ll tell her."
-    s ""
+    s "わたし…{w}やっぱり話すよ。"
 
 # game/game_script.rpy:482
 translate ja game_script_6aece9a9:
 
     # s "So she knows wh-why her plans for the festival were ruined."
-    s ""
+    s "文化祭のこと、どうしてダメになったか知ってほしいし…"
 
 # game/game_script.rpy:485
 translate ja game_script_d3be9f31:
 
     # "I can tell what she’s going to say."
-    ""
+    "何を言いたいのか分かる。"
 
 # game/game_script.rpy:488
 translate ja game_script_97303de1:
 
     # mc "Hey, it wasn’t your fault, Sayori."
-    mc ""
+    mc "なあ、さより。君のせいじゃないよ。"
 
 # game/game_script.rpy:489
 translate ja game_script_850d76d0:
 
     # mc "None of this is."
-    mc ""
+    mc "全部、君のせいじゃない。"
 
 # game/game_script.rpy:491
 translate ja game_script_a6d28ad9:
 
     # "Sayori grabs my hand tightly, crushing it in a vice-like grip."
-    ""
+    "さよりは俺の手をぎゅっと握りしめる。"
 
 # game/game_script.rpy:493
 translate ja game_script_4903a918:
 
     # mc "You can talk to her if you really want to."
-    mc ""
+    mc "本当に話したいなら、話していいんだよ。"
 
 # game/game_script.rpy:494
 translate ja game_script_8a7f9c9a:
 
     # mc "Hell, she’d probably be able to give better advice than me."
-    mc ""
+    mc "きっと俺よりいいアドバイスくれると思うし。"
 
 # game/game_script.rpy:496
 translate ja game_script_42c3de85:
 
     # s "Maybe..."
-    s ""
+    s "そうかも…"
 
 # game/game_script.rpy:500
 translate ja game_script_2299f5fa:
 
     # s "Did you...{w}tell my parents?"
-    s ""
+    s "…親には…{w}言った？"
 
 # game/game_script.rpy:502
 translate ja game_script_3f739ce1_1:
 
     # "I sigh."
-    ""
+    "ため息をつく。"
 
 # game/game_script.rpy:504
 translate ja game_script_2485f494:
 
     # mc "I..."
-    mc ""
+    mc "俺は…"
 
 # game/game_script.rpy:506
 translate ja game_script_f71ca5b5:
 
     # mc "I did, yeah."
-    mc ""
+    mc "うん、言ったよ。"
 
 # game/game_script.rpy:507
 translate ja game_script_63ffe930:
 
     # mc "I’m really sorry, I just thought they should know--{w=0.2}{nw}"
-    mc ""
+    mc "ごめん、でも君の親には知っておいてほしいと思って…{w=0.2}{nw}"
 
 # game/game_script.rpy:509
 translate ja game_script_0be1bb5c:
 
     # "She lays her head on my shoulder."
-    ""
+    "さよりは俺の肩に頭を乗せる。"
 
 # game/game_script.rpy:511
 translate ja game_script_b5d5ba8a:
 
     # s "Thank you."
-    s ""
+    s "ありがとう。"
 
 # game/game_script.rpy:513
 translate ja game_script_7507c9be:
 
     # s "I was too scared to tell them myself."
-    s ""
+    s "自分じゃ怖くて言えなかったから…"
 
 # game/game_script.rpy:516
 translate ja game_script_d4402a4a:
 
     # "She leans in closely to me, her soft breaths sweeping across my chest."
-    ""
+    "さよりがそっと寄り添って、胸に優しい息がかかる。"
 
 # game/game_script.rpy:518
 translate ja game_script_6cfc8140:
 
     # "She closes her eyes and lets out a pained sigh."
-    ""
+    "目を閉じて、苦しそうにため息をつく。"
 
 # game/game_script.rpy:520
 translate ja game_script_988e906b:
 
     # s "I love you, [player]."
-    s ""
+    s "…好きだよ、［player］。"
 
 # game/game_script.rpy:522
 translate ja game_script_2485f494_1:
 
     # mc "I..."
-    mc ""
+    mc "俺は…"
 
 # game/game_script.rpy:524
 translate ja game_script_de8d97b0:
 
     # "Despite her current state, I can’t lie to her."
-    ""
+    "こんな状態の彼女に嘘はつけない。"
 
 # game/game_script.rpy:525
 translate ja game_script_b1ec6cc2:
 
     # "It would be unfair on her end to have her hopes dashed like that."
-    ""
+    "期待を裏切るのはあまりにも酷い。"
 
 # game/game_script.rpy:527
 translate ja game_script_1b10b5d1:
 
     # "I feel her breath hitch. She grips at my shirt."
-    ""
+    "息を詰まらせて、俺のシャツをぎゅっと掴む。"
 
 # game/game_script.rpy:528
 translate ja game_script_53583f31:
 
     # "I hold her in a tight hug."
-    ""
+    "強く抱きしめる。"
 
 # game/game_script.rpy:529
 translate ja game_script_0c39a3f1:
 
     # "It's the only solace I can provide."
-    ""
+    "それが今の俺にできる唯一の慰めだ。"
 
 # game/game_script.rpy:530
 translate ja game_script_2afc72e3:
 
     # "I’m just glad she’s here. That she’s alive, and breathing."
-    ""
+    "彼女がここにいてくれて、ちゃんと生きて息をしてくれてるだけで嬉しい。"
 
 # game/game_script.rpy:531
 translate ja game_script_87290c9f:
 
     # "That I still have a best friend."
-    ""
+    "まだ大切な親友がそばにいるんだ。"
 
 # game/game_script.rpy:533
 translate ja game_script_89dffbfc:
 
     # "After a small bit, she steps back, sniffles, and wipes her eyes."
-    ""
+    "少しして、さよりは離れて鼻をすすり、涙を拭う。"
 
 # game/game_script.rpy:535
 translate ja game_script_675670c3:
 
     # mc "We...we should get going."
-    mc ""
+    mc "そろそろ行こうか。"
 
 # game/game_script.rpy:537
 translate ja game_script_1d404aeb:
 
     # mc "There’s no point going to school now, I suppose, so---{w=0.4}{nw}"
-    mc ""
+    mc "もう学校行っても意味ないし…{w=0.4}{nw}"
 
 # game/game_script.rpy:539
 translate ja game_script_347d2c1e:
 
     # s "Actually...[player]..."
-    s ""
+    s "あのね…［player］…"
 
 # game/game_script.rpy:541
 translate ja game_script_ea8cd4f8:
 
     # s "They’re...keeping me here for a while."
-    s ""
+    s "しばらくここにいなきゃいけないみたい…"
 
 # game/game_script.rpy:543
 translate ja game_script_4170387e:
 
     # s "I...think it could help, like you said."
-    s ""
+    s "でも…君が言ってたみたいに、きっと助けになると思う。"
 
 # game/game_script.rpy:546
 translate ja game_script_5d0bafbd:
 
     # "They’re keeping her on suicide watch..?"
-    ""
+    "自殺防止のために見張ってるのか…？"
 
 # game/game_script.rpy:547
 translate ja game_script_9bc622b5:
 
     # "Jesus Christ."
-    ""
+    "マジかよ…"
 
 # game/game_script.rpy:548
 translate ja game_script_a5e8d1c4:
 
     # "I take a deep breath."
-    ""
+    "深呼吸する。"
 
 # game/game_script.rpy:550
 translate ja game_script_c16a5914:
 
     # mc "That’s probably a good idea. They’ll know how to look after you."
-    mc ""
+    mc "それが一番いいと思うよ。ちゃんと君のこと見てくれるから。"
 
 # game/game_script.rpy:552
 translate ja game_script_b0a991d3:
 
     # "She only responds by squeezing my hand."
-    ""
+    "彼女は俺の手をぎゅっと握り返すだけだった。"
 
 # game/game_script.rpy:554
 translate ja game_script_f784173b:
 
     # mc "Look, I’ll keep my phone with me. If you have the chance, you can message me whenever you want."
-    mc ""
+    mc "俺、ずっとスマホ持ってるから。いつでも連絡していいからね。"
 
 # game/game_script.rpy:555
 translate ja game_script_146b7f1a:
 
     # mc "Hell, I’ll even pick you up whenever they release you."
-    mc ""
+    mc "退院できる時は、俺が迎えに行くからさ。"
 
 # game/game_script.rpy:558
 translate ja game_script_cafdc124:
 
     # mc "You’re going to be okay, Sayori."
-    mc ""
+    mc "絶対大丈夫だよ、さより。"
 
 # game/game_script.rpy:560
 translate ja game_script_8c450bc3:
 
     # "We hug again, only for a moment this time."
-    ""
+    "もう一度だけ、短く抱きしめ合う。"
 
 # game/game_script.rpy:563
 translate ja game_script_191b4a33:
 
     # mc "Don’t let me keep you waiting. I’ll let your family know where you are."
-    mc ""
+    mc "待たせちゃ悪いし、ご家族にも居場所伝えておくね。"
 
 # game/game_script.rpy:565
 translate ja game_script_9cf703cd:
 
     # s "Thank you, [player]. For everything."
-    s ""
+    s "ありがとう、［player］。全部…ほんとにありがとう。"
 
 # game/game_script.rpy:570
 translate ja game_script_b9c257fd:
 
     # "We let go and say our goodbyes, albeit reluctantly."
-    ""
+    "名残惜しいけど、手を離して別れを告げる。"
 
 # game/game_script.rpy:572
 translate ja game_script_af4dd38e:
 
     # "The nurse assures me she would be in good hands, and escorts me out."
-    ""
+    "看護師さんが「大丈夫ですよ」と言って、俺を外まで案内してくれる。"
 
 # game/game_script.rpy:573
 translate ja game_script_53fcbbda:
 
     # "With a long sigh, I start my journey home."
-    ""
+    "長いため息をついて、家路につく。"
 
 # game/game_script.rpy:580
 translate ja game_script_12f1f96c:
 
     # "The mid-afternoon sun warms my back as I approach my house."
-    ""
+    "午後の陽ざしが背中を温めてくれる。家に近づくにつれて。"
 
 # game/game_script.rpy:581
 translate ja game_script_89ea0daf:
 
     # "The bus ride seemed to breeze right on by. I barely remember it."
-    ""
+    "バスの中の記憶はほとんどないくらい、あっという間だった。"
 
 # game/game_script.rpy:582
 translate ja game_script_1286903d:
 
     # "Before I enter, I turn my head and look at the neighboring house."
-    ""
+    "家に入る前に、隣の家をちらっと見る。"
 
 # game/game_script.rpy:583
 translate ja game_script_baa19fba:
 
     # "Her house."
-    ""
+    "さよりの家だ。"
 
 # game/game_script.rpy:584
 translate ja game_script_469cc996:
 
     # "I close my eyes and shake my head."
-    ""
+    "目を閉じて、首を振る。"
 
 # game/game_script.rpy:585
 translate ja game_script_3d0c95eb:
 
     # "She’s safe now. She’s okay."
-    ""
+    "今はもう安全だ。大丈夫なはず。"
 
 # game/game_script.rpy:586
 translate ja game_script_e3a83f2c:
 
     # "She’s in a safe place and she will be okay."
-    ""
+    "ちゃんと守られてるし、きっと良くなる。"
 
 # game/game_script.rpy:587
 translate ja game_script_4488d3f9:
 
     # "The mantra does nothing to quell my worries."
-    ""
+    "そう言い聞かせても、不安は消えない。"
 
 # game/game_script.rpy:588
 translate ja game_script_510d2d1e:
 
     # "I begin to tremble as I unlock my door to step inside."
-    ""
+    "ドアの鍵を開けて中に入る時、手が震えてしまう。"
 
 # game/game_script.rpy:594
 translate ja game_script_f847c77c:
 
     # "The moment I enter the kitchen, I flick the light on and collapse into a chair."
-    ""
+    "キッチンに入って電気をつけて、椅子にへたり込む。"
 
 # game/game_script.rpy:595
 translate ja game_script_b1328f51:
 
     # "I hold my head and try to focus on something else."
-    ""
+    "頭を抱えて、他のことを考えようとする。"
 
 # game/game_script.rpy:598
 translate ja game_script_65152496:
 
     # "I can feel the nerves coming on."
-    ""
+    "また緊張が襲ってくる。"
 
 # game/game_script.rpy:599
 translate ja game_script_99ea0ced:
 
     # "All that adrenaline from earlier has left me mentally and physically exhausted."
-    ""
+    "さっきまでのアドレナリンで、心も体ももうクタクタだ。"
 
 # game/game_script.rpy:600
 translate ja game_script_be94bf6b:
 
     # "It’s only then I realize I haven’t eaten today."
-    ""
+    "そういえば、今日はまだ何も食べてなかった。"
 
 # game/game_script.rpy:601
 translate ja game_script_393ebcf3:
 
     # "Despite my body screaming at me, I force myself to get up and make a sandwich."
-    ""
+    "体は限界だけど、無理やり立ち上がってサンドイッチを作る。"
 
 # game/game_script.rpy:602
 translate ja game_script_aa00859e:
 
     # "My mind wanders to the events of the day."
-    ""
+    "今日の出来事が頭をよぎる。"
 
 # game/game_script.rpy:604
 translate ja game_script_62bf1f21:
 
     # "The image of Sayori, noose around her neck, the frightened expression frozen on her face..."
-    ""
+    "首にロープをかけたさよりの顔…あの怯えた表情が頭から離れない。"
 
 # game/game_script.rpy:605
 translate ja game_script_13ffeb34:
 
     # "There’s that feeling...{w}that tightness in the chest..."
-    ""
+    "またあの感覚…{w}胸が締め付けられる…"
 
 # game/game_script.rpy:606
 translate ja game_script_c395113b:
 
     # "Why the hell does this feeling keep coming back when I think about-..."
-    ""
+    "なんでこんな気持ちが何度も蘇るんだ…"
 
 # game/game_script.rpy:609
 translate ja game_script_2bb1ec5c:
 
     # "I don’t want to think about it anymore."
-    ""
+    "もう考えたくない。"
 
 # game/game_script.rpy:610
 translate ja game_script_bedb5c2b:
 
     # "My mind settles on Monika’s reaction."
-    ""
+    "モニカの反応が頭に浮かぶ。"
 
 # game/game_script.rpy:611
 translate ja game_script_cf60b61d:
 
     # "Yuri must have been so stressed, too."
-    ""
+    "ユリもきっとすごくストレスだったろうな。"
 
 # game/game_script.rpy:612
 translate ja game_script_51d7bc2f:
 
     # "And where was Natsuki?"
-    ""
+    "ナツキはどこにいたんだ？"
 
 # game/game_script.rpy:613
 translate ja game_script_4bbcaf3f:
 
     # "It seems like everything is just crumbling down today."
-    ""
+    "今日は何もかもが崩れていく気がする。"
 
 # game/game_script.rpy:614
 translate ja game_script_8ccaa480:
 
     # "I noticed that she still hasn’t texted back."
-    ""
+    "まだ返事が来てないことに気づく。"
 
 # game/game_script.rpy:615
 translate ja game_script_2e4da718:
 
     # "Hell, my messages are still unre--{w=0.1}{nw}"
-    ""
+    "くそ、メッセージも未読のまま…{w=0.1}{nw}"
 
 # game/game_script.rpy:626
 translate ja game_script_7dbbb621:
 
     # mc "Ah, shit!"
-    mc ""
+    mc "うわ、やっちまった！"
 
 # game/game_script.rpy:628
 translate ja game_script_2878b9c9:
 
     # "While I was distracted, I accidentally cut my finger open while slicing a tomato."
-    ""
+    "ぼーっとしてたら、トマト切ってる時に指まで切っちゃった。"
 
 # game/game_script.rpy:629
 translate ja game_script_00557965:
 
     # "The knife clatters to the floor."
-    ""
+    "包丁がガシャッと床に落ちる。"
 
 # game/game_script.rpy:630
 translate ja game_script_0ecb4399:
 
     # "I quickly wrap my finger in a paper towel, letting the few drops of blood soak into it."
-    ""
+    "急いでキッチンペーパーで指を巻いて、血がじわっと染み込んでいく。"
 
 # game/game_script.rpy:631
 translate ja game_script_62ca33bb:
 
     # "Damn, I didn’t feel a thing."
-    ""
+    "全然痛み感じなかったな…"
 
 # game/game_script.rpy:632
 translate ja game_script_a2c0c639:
 
     # "I guess the knife’s sharp, at least."
-    ""
+    "まあ、包丁がよく切れる証拠か。"
 
 # game/game_script.rpy:633
 translate ja game_script_924493cc:
 
     # "Regardless, I go ahead and eat the sandwich."
-    ""
+    "とりあえず、そのままサンドイッチを食べる。"
 
 # game/game_script.rpy:634
 translate ja game_script_e5ecf9f4:
 
     # "I’m too hungry to care if there’s a little blood on it."
-    ""
+    "ちょっと血がついてても、腹減りすぎて気にしない。"
 
 # game/game_script.rpy:635
 translate ja game_script_e20da3ca:
 
     # "I toss my dish into the sink alongside the knife, and head upstairs to my room."
-    ""
+    "皿と包丁をシンクに放り込んで、部屋に戻る。"
 
 # game/game_script.rpy:641
 translate ja game_script_d64011b3:
 
     # "I collapse onto my bed, exhausted from the stress that the day had brought me."
-    ""
+    "ベッドに倒れ込む。今日のストレスでヘトヘトだ。"
 
 # game/game_script.rpy:642
 translate ja game_script_2b7db65e:
 
     # "I send a text to Sayori, fighting the urge to fall asleep."
-    ""
+    "寝落ちしそうなのをこらえて、さよりにメッセージを送る。"
 
 # game/game_script.rpy:643
 translate ja game_script_066eea88:
 
     # "With the message sent, I surrender to my exhaustion."
-    ""
+    "送信したら、もう疲れに負けてしまう。"
 
 # game/game_script.rpy:644
 translate ja game_script_1aab143b:
 
     # "I drift into unconsciousness within minutes."
-    ""
+    "数分で意識が遠のいていく。"
 
 # game/game_script.rpy:660
 translate ja game_script_11b743b3:
 
     # "I’m pulled from my sleep by the sounds of birds and passing cars."
-    ""
+    "鳥の声と車の音で目が覚める。"
 
 # game/game_script.rpy:661
 translate ja game_script_a0b5851e:
 
     # "I check my phone."
-    ""
+    "スマホを確認する。"
 
 # game/game_script.rpy:662
 translate ja game_script_fd38108b:
 
     # "12:39..."
-    ""
+    "１２時３９分…"
 
 # game/game_script.rpy:663
 translate ja game_script_351688ce:
 
     # "12:40."
-    ""
+    "１２時４０分。"
 
 # game/game_script.rpy:664
 translate ja game_script_d9bf793d:
 
     # "Crap, I’m late!"
-    ""
+    "やばっ、寝坊した！"
 
 # game/game_script.rpy:665
 translate ja game_script_fba6b5b7:
 
     # "I bolt out of bed and quickly put on my clothes."
-    ""
+    "ベッドから飛び起きて、急いで服を着る。"
 
 # game/game_script.rpy:666
 translate ja game_script_dd6bf717:
 
     # "The adrenaline of anxiety wakes me up completely."
-    ""
+    "焦りでアドレナリン全開、完全に目が覚める。"
 
 # game/game_script.rpy:667
 translate ja game_script_69c8cfc9:
 
     # "As I’m changing, I stop and take a moment to think clearly."
-    ""
+    "着替えながら、ちょっと落ち着いて考える。"
 
 # game/game_script.rpy:668
 translate ja game_script_d10b4fc7:
 
     # "If I’m this late already, I might as well not go."
-    ""
+    "ここまで遅刻したら、もう行かなくてもいいかもな…"
 
 # game/game_script.rpy:669
 translate ja game_script_4336ec34:
 
     # "Another absence. That’s going to look {i}fantastic{/i} on my school standing."
-    ""
+    "また欠席か…成績に響くな、こりゃ。"
 
 # game/game_script.rpy:670
 translate ja game_script_274e99b7:
 
     # "I sigh and sit down, half dressed."
-    ""
+    "ため息ついて、服も半分のまま座り込む。"
 
 # game/game_script.rpy:671
 translate ja game_script_93260731:
 
     # "I can probably still go to the Literature Club, at least."
-    ""
+    "まあ、文芸部にはまだ行けるか。"
 
 # game/game_script.rpy:672
 translate ja game_script_7912eb13:
 
     # "Check on Natsuki, let Monika and Yuri know what’s going on..."
-    ""
+    "ナツキの様子見て、モニカとユリにも事情伝えないとな…"
 
 # game/game_script.rpy:673
 translate ja game_script_dbd916b4:
 
     # "It’s not going to be a pleasant day."
-    ""
+    "今日は絶対しんどい一日になるな。"
 
 # game/game_script.rpy:674
 translate ja game_script_96bc78f1:
 
     # "But first...a much-needed shower is in order."
-    ""
+    "とりあえず…シャワーでも浴びてスッキリしないとな。"
 
 # game/game_script.rpy:681
 translate ja game_script_90d336f4:
 
     # "I step out of the bathroom, feeling fresh and clean."
-    ""
+    "風呂から出て、ちょっとさっぱりした気分になる。"
 
 # game/game_script.rpy:682
 translate ja game_script_2c9a60c5:
 
     # "I check the time again. 13:06."
-    ""
+    "もう一度時計を見る。１３時０６分。"
 
 # game/game_script.rpy:683
 translate ja game_script_29b9ea2c:
 
     # "How long was I {i}in{/i} there?"
-    ""
+    "どんだけ長風呂してたんだ俺…？"
 
 # game/game_script.rpy:684
 translate ja game_script_28faf898:
 
     # "At least I feel less tense now."
-    ""
+    "まあ、少しは肩の力抜けたかな。"
 
 # game/game_script.rpy:685
 translate ja game_script_03648c6c:
 
     # "It just occurs to me, neither Natsuki nor Sayori have responded to me."
-    ""
+    "そういえば、ナツキもさよりもまだ返事してこないな。"
 
 # game/game_script.rpy:686
 translate ja game_script_3f95a4bc:
 
     # "I haven’t heard a peep from either of them."
-    ""
+    "二人とも全然音沙汰なしだ。"
 
 # game/game_script.rpy:687
 translate ja game_script_94e8bdeb:
 
     # "My fears have crept their way back, rooting themselves into the pit of my stomach like a vile tumor."
-    ""
+    "また不安がじわじわと腹の底に広がってくる…嫌な感じだ。"
 
 # game/game_script.rpy:688
 translate ja game_script_25f7f05f:
 
     # "I figure they might have taken Sayori’s phone or she’s turned it off, that’s not a huge deal right now."
-    ""
+    "さよりのスマホ、誰かが預かったか電源切ってるのかも…まあ今は大した問題じゃないか。"
 
 # game/game_script.rpy:689
 translate ja game_script_37dc5ba1:
 
     # "She’s in a safe place."
-    ""
+    "さよりは安全な場所にいるし。"
 
 # game/game_script.rpy:690
 translate ja game_script_c9d3cffd:
 
     # "But Natsuki..."
-    ""
+    "でもナツキは…"
 
 # game/game_script.rpy:691
 translate ja game_script_aed2c5fb:
 
     # "I’m tempted to call her, let her know what’s happened, ask if she’s okay..."
-    ""
+    "ナツキに電話したくなる…事情伝えて、大丈夫か聞きたい…"
 
 # game/game_script.rpy:692
 translate ja game_script_4c38b8ea:
 
     # "But the rational side of my brain interrupts."
-    ""
+    "でも理性がストップをかける。"
 
 # game/game_script.rpy:693
 translate ja game_script_bfa380b0:
 
     # "{i}What if she’s in class? What if her phone is broken or something?{/i}"
-    ""
+    "{i}授業中だったら？スマホ壊れてるとか？{/i}"
 
 # game/game_script.rpy:694
 translate ja game_script_d9b6d526:
 
     # "She could be fine for all I know."
-    ""
+    "もしかしたら普通に元気かもしれないし。"
 
 # game/game_script.rpy:695
 translate ja game_script_735724c0:
 
     # "Damn it."
-    ""
+    "くそっ。"
 
 # game/game_script.rpy:696
 translate ja game_script_de9697ec:
 
     # "I almost wish I were omnipotent, so I wouldn’t have this painful, crushing {i}worry{/i}..."
-    ""
+    "全知全能だったら、こんな苦しい心配しなくて済むのにな…"
 
 # game/game_script.rpy:706
 translate ja game_script_c055d7ac:
 
     # "I hold my breath and check the time."
-    ""
+    "息を止めて、もう一度時計を見る。"
 
 # game/game_script.rpy:707
 translate ja game_script_59575f84:
 
     # "Club should have started by now."
-    ""
+    "もう部活始まってるはずだ。"
 
 # game/game_script.rpy:708
 translate ja game_script_fdb12d86:
 
     # "I follow the path along the courtyard."
-    ""
+    "中庭の道を歩いていく。"
 
 # game/game_script.rpy:709
 translate ja game_script_b6dabb50:
 
     # "At least Sayori isn’t here to scold me for missing class."
-    ""
+    "さよりが授業サボったって怒ってこないだけマシか。"
 
 # game/game_script.rpy:710
 translate ja game_script_ea65b706:
 
     # "...who am I kidding?"
-    ""
+    "…いや、そんなこと言ってもな。"
 
 # game/game_script.rpy:711
 translate ja game_script_704ce469:
 
     # "Right now I’d take any amount of teasing to see her."
-    ""
+    "今ならどんなにからかわれてもいいから、さよりに会いたいよ。"
 
 # game/game_script.rpy:712
 translate ja game_script_56e847a8:
 
     # "At least she’s in a safe place."
-    ""
+    "でも安全な場所にいるし…"
 
 # game/game_script.rpy:713
 translate ja game_script_a20cefa7_1:
 
     # "..."
-    ""
+    "…"
 
 # game/game_script.rpy:714
 translate ja game_script_dbbddc1f:
 
     # "I force my thoughts towards the club."
-    ""
+    "気持ちを切り替えて、部活のことを考える。"
 
 # game/game_script.rpy:715
 translate ja game_script_f99ef078:
 
     # "Reaching the door, I let myself inside and begin to navigate the hallways."
-    ""
+    "ドアに着いて中に入り、廊下を進む。"
 
 # game/game_script.rpy:718
 translate ja game_script_0f9c2fc4:
 
     # "After a short walk, I stop outside the door."
-    ""
+    "少し歩いて、部室の前で立ち止まる。"
 
 # game/game_script.rpy:719
 translate ja game_script_64a9d6c5:
 
     # "I can see Monika and Yuri inside."
-    ""
+    "中にはモニカとユリがいるのが見える。"
 
 # game/game_script.rpy:720
 translate ja game_script_7cb66bc9:
 
     # "No Natsuki."
-    ""
+    "ナツキはいない。"
 
 # game/game_script.rpy:721
 translate ja game_script_095e0c14:
 
     # "My gut feels like it’s been dropped onto solid concrete."
-    ""
+    "腹の底がコンクリに叩きつけられたみたいだ。"
 
 # game/game_script.rpy:722
 translate ja game_script_7a611292:
 
     # "My already present worry only gets worse."
-    ""
+    "もともとあった不安がさらにひどくなる。"
 
 # game/game_script.rpy:723
 translate ja game_script_b26d8aca:
 
     # "I take a moment to compose myself before walking in."
-    ""
+    "少し気持ちを落ち着けてから部屋に入る。"
 
 # game/game_script.rpy:729
 translate ja game_script_0556d510:
 
     # "As I enter, both Monika and Yuri turn to stare at me."
-    ""
+    "部屋に入ると、モニカとユリがじっとこっちを見る。"
 
 # game/game_script.rpy:731
 translate ja game_script_0e21eb37:
 
     # "Yuri quickly buries herself back into her book."
-    ""
+    "ユリはすぐに本に顔をうずめる。"
 
 # game/game_script.rpy:732
 translate ja game_script_2755e88e:
 
     # "Whatever plan I had to explain myself vanished the second I entered."
-    ""
+    "何を言おうか考えてたのに、入った瞬間全部吹っ飛んだ。"
 
 # game/game_script.rpy:733
 translate ja game_script_cac3cb97:
 
     # "I could only stand there awkwardly."
-    ""
+    "ただ気まずく立ち尽くすしかなかった。"
 
 # game/game_script.rpy:734
 translate ja game_script_034670b6:
 
     # "I cough and try to stammer out a greeting."
-    ""
+    "咳払いして、なんとか挨拶しようとする。"
 
 # game/game_script.rpy:736
 translate ja game_script_150869d6:
 
     # mc "Hi Moni--{w=0.2}{nw}"
-    mc ""
+    mc "やあ、モニ――{w=0.2}{nw}"
 
 # game/game_script.rpy:738
 translate ja game_script_03667fe2:
 
     # m "[player], can we talk?"
-    m ""
+    m "［player］、ちょっと話せる？"
 
 # game/game_script.rpy:741
 translate ja game_script_c6a22fa2:
 
     # "She’s uncharacteristically emotionless and dreary, as opposed to her normal cheerful demeanor."
-    ""
+    "いつもの明るい雰囲気と違って、珍しく無表情で沈んでいる。"
 
 # game/game_script.rpy:743
 translate ja game_script_863680b0:
 
     # mc "I mean yeah, I suppose..."
-    mc ""
+    mc "うん、まあ…いいよ。"
 
 # game/game_script.rpy:745
 translate ja game_script_729bce31:
 
     # m "You want to head out into the hall or..?"
-    m ""
+    m "廊下で話す？それとも…"
 
 # game/game_script.rpy:748
 translate ja game_script_cf9b21ae:
 
     # "Somehow the prospect of being in a hallway where others could hear is not ideal."
-    ""
+    "廊下で誰かに聞かれるのはちょっと嫌だな。"
 
 # game/game_script.rpy:749
 translate ja game_script_825a7a26:
 
     # "But now I have to explain in front of both Monika {i}and{/i} Yuri."
-    ""
+    "でも今はモニカとユリの前で説明しなきゃいけない。"
 
 # game/game_script.rpy:750
 translate ja game_script_a4a42fdc:
 
     # "Great."
-    ""
+    "最悪だ。"
 
 # game/game_script.rpy:753
 translate ja game_script_d453351e:
 
     # mc "Here is fine."
-    mc ""
+    mc "ここでいいよ。"
 
 # game/game_script.rpy:755
 translate ja game_script_71510bb3:
 
     # m "Alright."
-    m ""
+    m "わかった。"
 
 # game/game_script.rpy:758
 translate ja game_script_bdfa6cfe:
 
     # "Monika leans against the teacher’s desk, her expression blank, yet somehow piercing my soul."
-    ""
+    "モニカは先生の机にもたれて、無表情なのに心に刺さるような目をしている。"
 
 # game/game_script.rpy:759
 translate ja game_script_46db55ba:
 
     # "This is going to suck."
-    ""
+    "これはキツいな…"
 
 # game/game_script.rpy:760
 translate ja game_script_650a337d:
 
     # "I take a breath."
-    ""
+    "息を整える。"
 
 # game/game_script.rpy:762
 translate ja game_script_8994a7f3:
 
     # mc "I’ll be straight."
-    mc ""
+    mc "正直に言うよ。"
 
 # game/game_script.rpy:765
 translate ja game_script_d5057a04:
 
     # mc "Something...{w}happened with Sayori."
-    mc ""
+    mc "さよりに…{w}ちょっとあったんだ。"
 
 # game/game_script.rpy:766
 translate ja game_script_af0be58c:
 
     # mc "I don’t think I can tell you...that’ll be up to her."
-    mc ""
+    mc "詳しくは言えないけど…それは本人が決めることだから。"
 
 # game/game_script.rpy:768
 translate ja game_script_13536261:
 
     # mc "But believe me, we didn't want to miss the festival."
-    mc ""
+    mc "でも、文化祭をサボりたかったわけじゃないんだ。"
 
 # game/game_script.rpy:769
 translate ja game_script_499e3675:
 
     # mc "It was important to us."
-    mc ""
+    mc "俺たちにとっても大事な日だったし。"
 
 # game/game_script.rpy:771
 translate ja game_script_c87c8572:
 
     # mc "We wouldn’t have skipped unless it was important."
-    mc ""
+    mc "よっぽどのことがなきゃ休まないよ。"
 
 # game/game_script.rpy:772
 translate ja game_script_c4249f6a:
 
     # mc "So, for what it’s worth, I’m really sorry that we didn’t make it."
-    mc ""
+    mc "だから、本当に行けなくてごめん。"
 
 # game/game_script.rpy:774
 translate ja game_script_3e0a8671:
 
     # "Well, that was surprisingly natural, and more importantly, honest."
-    ""
+    "意外と自然に言えたし、何より正直だった。"
 
 # game/game_script.rpy:775
 translate ja game_script_0a8b8314:
 
     # "Still, I can’t help but worry about her response."
-    ""
+    "でも、やっぱり反応が気になる。"
 
 # game/game_script.rpy:777
 translate ja game_script_d362a558:
 
     # "As soon as I finish, Monika’s face softens, her brow furrowing with concern."
-    ""
+    "言い終わると、モニカの顔が少し和らいで心配そうに眉を寄せる。"
 
 # game/game_script.rpy:780
 translate ja game_script_11831365:
 
     # m "Is she okay?"
-    m ""
+    m "さよりは大丈夫なの？"
 
 # game/game_script.rpy:783
 translate ja game_script_3e4fdc7b:
 
     # mc "Yes...and no. She’s safe, but \"okay\" is stretching it."
-    mc ""
+    mc "うん…でも、まあ…安全だけど「大丈夫」とは言い切れない。"
 
 # game/game_script.rpy:785
 translate ja game_script_ef6dfa9c:
 
     # m "I see."
-    m ""
+    m "そっか…"
 
 # game/game_script.rpy:788
 translate ja game_script_6f9d1f4c:
 
     # "Her eyes shift away for a moment, staring into space."
-    ""
+    "モニカは少し目をそらして、ぼんやりと宙を見つめる。"
 
 # game/game_script.rpy:792
 translate ja game_script_0fb2d05f:
 
     # "She takes a deep breath."
-    ""
+    "深く息を吐く。"
 
 # game/game_script.rpy:795
 translate ja game_script_30a66545:
 
     # m "Okay."
-    m ""
+    m "うん。"
 
 # game/game_script.rpy:797
 translate ja game_script_ae4b72c8:
 
     # m "Needless to say, I owe you an apology."
-    m ""
+    m "とにかく、謝らなきゃいけないね。"
 
 # game/game_script.rpy:799
 translate ja game_script_42916806:
 
     # m "I was in a panic and shouldn’t have kept bugging you about it."
-    m ""
+    m "パニックになって、何度もしつこく聞いてごめん。"
 
 # game/game_script.rpy:801
 translate ja game_script_bed02e4f:
 
     # m "Things have been really stressful for me lately, especially because of the festival."
-    m ""
+    m "最近ずっとストレスだったんだ、特に文化祭のことで。"
 
 # game/game_script.rpy:803
 translate ja game_script_30b523bb:
 
     # m "So, yeah..."
-    m ""
+    m "そんな感じ…"
 
 # game/game_script.rpy:806
 translate ja game_script_10ca3222:
 
     # "An awkward silence ensues."
-    ""
+    "微妙な沈黙が流れる。"
 
 # game/game_script.rpy:807
 translate ja game_script_dc1f4cea:
 
     # "I have a feeling that the festival failure hit her harder than she’s letting on."
-    ""
+    "文化祭が失敗したこと、モニカは思ってる以上にショックだったみたいだ。"
 
 # game/game_script.rpy:808
 translate ja game_script_be7cd339:
 
     # "While it was necessary...I still feel awful for contributing to it’s failure."
-    ""
+    "仕方なかったとはいえ、俺も原因の一つだと思うとやっぱり辛い。"
 
 # game/game_script.rpy:809
 translate ja game_script_b8f9c094:
 
     # "Monika rubs my upper arm a bit and gives me a worried look."
-    ""
+    "モニカが俺の腕をちょっとさすって、心配そうな顔をする。"
 
 # game/game_script.rpy:811
 translate ja game_script_faf2f47f:
 
     # m "Are {i}you{/i} okay?"
-    m ""
+    m "…君は大丈夫？"
 
 # game/game_script.rpy:813
 translate ja game_script_17799653:
 
     # "I pause."
-    ""
+    "少し間を置く。"
 
 # game/game_script.rpy:814
 translate ja game_script_c4360f43:
 
     # "Through the last few days, I haven’t had time to reflect on my mental state."
-    ""
+    "ここ数日、自分の気持ちを振り返る余裕なんてなかった。"
 
 # game/game_script.rpy:815
 translate ja game_script_f384dd61:
 
     # "Well, beyond the lens of anxiety and stress anyway."
-    ""
+    "まあ、不安とストレス以外は考えてなかったけど。"
 
 # game/game_script.rpy:816
 translate ja game_script_40a57ef6:
 
     # "Nobody’s really asked me, so I’ve pushed that task aside for more important things."
-    ""
+    "誰にも聞かれなかったし、他に優先すべきことが多すぎて後回しにしてた。"
 
 # game/game_script.rpy:818
 translate ja game_script_135df042:
 
     # mc "Not really, but it’s nothing to worry about."
-    mc ""
+    mc "まあ、特に…でも大したことじゃないよ。"
 
 # game/game_script.rpy:821
 translate ja game_script_5c9ff614:
 
     # "She nods."
-    ""
+    "モニカはうなずく。"
 
 # game/game_script.rpy:823
 translate ja game_script_ff709264:
 
     # m "If you insist."
-    m ""
+    m "そう言うなら…"
 
 # game/game_script.rpy:827
 translate ja game_script_5c0ed029:
 
     # "Yuri peers up over her book inquisitively."
-    ""
+    "ユリが本から顔を上げて、気になった様子でこちらを見る。"
 
 # game/game_script.rpy:829
 translate ja game_script_98dfdb51:
 
     # y "What about...Natsuki..?"
-    y ""
+    y "ナツキは…どうしたの？"
 
 # game/game_script.rpy:831
 translate ja game_script_88585ca3:
 
     # "The mere mention of Natsuki caught me by surprise."
-    ""
+    "ナツキの名前が出て、ちょっと驚く。"
 
 # game/game_script.rpy:832
 translate ja game_script_d79ace68:
 
     # "I can feel a wave of mild nausea flooding over me."
-    ""
+    "なんだか胸がムカムカしてくる。"
 
 # game/game_script.rpy:833
 translate ja game_script_155fd8c4:
 
     # "Where is she?"
-    ""
+    "ナツキはどこにいるんだ？"
 
 # game/game_script.rpy:836
 translate ja game_script_7a719667:
 
     # m "Yeah...{w}that was my next question."
-    m ""
+    m "そう…{w}それも聞こうと思ってた。"
 
 # game/game_script.rpy:839
 translate ja game_script_c676d9de:
 
     # mc "I-I haven’t heard from her. At all."
-    mc ""
+    mc "全然連絡ないんだ。"
 
 # game/game_script.rpy:841
 translate ja game_script_d12618e6:
 
     # m "...She wasn’t with you?"
-    m ""
+    m "…一緒じゃなかったの？"
 
 # game/game_script.rpy:843
 translate ja game_script_ee2954ab:
 
     # mc "No, she went home on Sunday after we baked the cupcakes."
-    mc ""
+    mc "いや、日曜にカップケーキ作った後、帰っちゃったんだ。"
 
 # game/game_script.rpy:845
 translate ja game_script_52168954:
 
     # mc "I haven’t heard from her since."
-    mc ""
+    mc "それからずっと連絡なし。"
 
 # game/game_script.rpy:849
 translate ja game_script_077593f2:
 
     # "The room grows quiet."
-    ""
+    "部屋が静まり返る。"
 
 # game/game_script.rpy:850
 translate ja game_script_6810404e:
 
     # "Yuri sits down, staring ahead blankly before aimlessly flipping through her book."
-    ""
+    "ユリはぼんやり前を見てから、なんとなく本をめくり始める。"
 
 # game/game_script.rpy:852
 translate ja game_script_db2ec9b5:
 
     # "Monika closes her eyes and sighs."
-    ""
+    "モニカは目を閉じて、ため息をつく。"
 
 # game/game_script.rpy:855
 translate ja game_script_89dc7a77:
 
     # m "...Okay."
-    m ""
+    m "…そっか。"
 
 # game/game_script.rpy:857
 translate ja game_script_5c669329:
 
     # m "We’ll have to--{w=0.2}{nw}"
-    m ""
+    m "じゃあ…{w=0.2}{nw}"
 
 # game/game_script.rpy:862
 translate ja game_script_f3dd91ef:
 
     # "Something catches my eye."
-    ""
+    "何かが目に入る。"
 
 # game/game_script.rpy:863
 translate ja game_script_d1c748ae:
 
     # "Outside the clubroom door."
-    ""
+    "部室の外のドアの向こう。"
 
 # game/game_script.rpy:864
 translate ja game_script_bc9edeba:
 
     # "The flash of a familiar shade of pink."
-    ""
+    "見覚えのあるピンク色がちらっと見えた。"
 
 # game/game_script.rpy:865
 translate ja game_script_e7bbab77:
 
     # "Was that..."
-    ""
+    "あれは…"
 
 # game/game_script.rpy:866
 translate ja game_script_e0c0d21d:
 
     # "Am I just seeing things?"
-    ""
+    "見間違いか…？"
 
 # game/game_script.rpy:867
 translate ja game_script_a20cefa7_2:
 
     # "..."
-    ""
+    "…"
 
 # game/game_script.rpy:868
 translate ja game_script_7935201f:
 
     # "Well, it’s better that I find out rather than standing here contemplating it."
-    ""
+    "ここでウジウジ考えてるより、確かめた方がマシだよな。"
 
 # game/game_script.rpy:870
 translate ja game_script_ca3fe252:
 
     # mc "Uhhh...I’ll be right back."
-    mc ""
+    mc "えっと…ちょっと行ってくる。"
 
 # game/game_script.rpy:872
 translate ja game_script_0d5c0d55:
 
     # m "Oh...{w}um, alright."
-    m ""
+    m "あ…{w}うん、わかった。"
 
 # game/game_script.rpy:878
 translate ja game_script_c6f78afa:
 
     # "I probably cut her off from what she was saying, but this is more important."
-    ""
+    "たぶん話の途中で遮っちゃったけど、今はこっちが優先だ。"
 
 # game/game_script.rpy:879
 translate ja game_script_c22f4c75:
 
     # "I make every attempt to walk to the door normally and resist the urge to sprint."
-    ""
+    "普通に歩こうとするけど、走り出したい気持ちを必死でこらえる。"
 
 # game/game_script.rpy:883
 translate ja game_script_86fdc325:
 
     # "Just as the door closes, I break into a jog down the corridor."
-    ""
+    "ドアが閉まった瞬間、廊下を小走りで駆け抜ける。"
 
 # game/game_script.rpy:884
 translate ja game_script_54a45715:
 
     # "I round the corner and..."
-    ""
+    "角を曲がって…"
 
 # game/game_script.rpy:888
 translate ja game_script_a7dce4fa:
 
     # n "...!"
-    n ""
+    n "…！"
 
 # game/game_script.rpy:890
 translate ja game_script_bba43ad0:
 
     # mc "Natsuki! I--{w=0.2}{nw}"
-    mc ""
+    mc "ナツキ！俺――{w=0.2}{nw}"
 
 # game/game_script.rpy:896
 translate ja game_script_79446c8a:
 
     # n "[player]! Keep your voice down...{w}please..."
-    n ""
+    n "［player］！声抑えて…{w}お願い…"
 
 # game/game_script.rpy:899
 translate ja game_script_25916a2f:
 
     # "She looks around, like she’s paranoid about being heard."
-    ""
+    "周りをキョロキョロして、誰かに聞かれるのを気にしてるみたいだ。"
 
 # game/game_script.rpy:901
 translate ja game_script_f3899514:
 
     # mc "Nat, you don’t understand, I’ve-..."
-    mc ""
+    mc "ナツキ、違うんだ、俺は…"
 
 # game/game_script.rpy:903
 translate ja game_script_834f36ce:
 
     # "She speaks in a harsh whisper."
-    ""
+    "彼女は低い声でささやく。"
 
 # game/game_script.rpy:906
 translate ja game_script_79e57ea6:
 
     # n "I know, [player]. I missed the festival and it’s my fault and I know that, okay?"
-    n ""
+    n "分かってるよ、［player］。文化祭サボったのは私のせいだって分かってるから。"
 
 # game/game_script.rpy:907
 translate ja game_script_068f57df:
 
     # n "I don’t want them to come out here and start bitching at me and-..."
-    n ""
+    n "みんなにここで文句言われるのだけは勘弁してほしいし…"
 
 # game/game_script.rpy:909
 translate ja game_script_9659bc81:
 
     # mc "Natsuki."
-    mc ""
+    mc "ナツキ。"
 
 # game/game_script.rpy:912
 translate ja game_script_20f103e6:
 
     # "She stops her tangent."
-    ""
+    "ナツキは言いかけて止まる。"
 
 # game/game_script.rpy:916
 translate ja game_script_4bac4858:
 
     # mc "I’ve missed you."
-    mc ""
+    mc "会えなくて寂しかったよ。"
 
 # game/game_script.rpy:917
 translate ja game_script_30bf3278:
 
     # mc "I’ve been really worried."
-    mc ""
+    mc "ずっと心配してたんだ。"
 
 # game/game_script.rpy:918
 translate ja game_script_4a701826:
 
     # mc "We’ve all been."
-    mc ""
+    mc "みんなもそうだよ。"
 
 # game/game_script.rpy:921
 translate ja game_script_d097056a:
 
     # "She looks at me with a reaction that I can only describe as complete shock."
-    ""
+    "ナツキは驚いた顔で俺を見る。"
 
 # game/game_script.rpy:924
 translate ja game_script_572648d5:
 
     # n "You..."
-    n ""
+    n "あんた…"
 
 # game/game_script.rpy:926
 translate ja game_script_c78066fc:
 
     # n "Nnn..."
-    n ""
+    n "ん…"
 
 # game/game_script.rpy:928
 translate ja game_script_5808f2e4:
 
     # n "...I’ve missed you too, okay?"
-    n ""
+    n "…私も会いたかったから。"
 
 # game/game_script.rpy:930
 translate ja game_script_7631a0e3:
 
     # n "A lot."
-    n ""
+    n "すごく。"
 
 # game/game_script.rpy:932
 translate ja game_script_2013f6e7:
 
     # n "I’m sorry that I missed the festival."
-    n ""
+    n "文化祭行けなくてごめん。"
 
 # game/game_script.rpy:934
 translate ja game_script_a7e6f8b7:
 
     # n "I really wanted to go."
-    n ""
+    n "本当は行きたかったんだよ。"
 
 # game/game_script.rpy:936
 translate ja game_script_8093f419:
 
     # mc "It’s okay. Sayori and I weren’t exactly punctual either."
-    mc ""
+    mc "大丈夫だよ。さよりも俺も遅刻したし。"
 
 # game/game_script.rpy:940
 translate ja game_script_280db1cd:
 
     # "She looks at me with confusion."
-    ""
+    "ナツキは不思議そうに俺を見る。"
 
 # game/game_script.rpy:943
 translate ja game_script_cbdeaaf4:
 
     # n "...you and Sayori?"
-    n ""
+    n "…さよりと一緒に？"
 
 # game/game_script.rpy:945
 translate ja game_script_628894ad:
 
     # mc "Oh god, no, nothing like that."
-    mc ""
+    mc "いや、そういうんじゃないよ。"
 
 # game/game_script.rpy:946
 translate ja game_script_32387208:
 
     # mc "It’s just, um..."
-    mc ""
+    mc "ただ、えっと…"
 
 # game/game_script.rpy:949
 translate ja game_script_06c3be59:
 
     # "I debate telling her."
-    ""
+    "言うべきか迷う。"
 
 # game/game_script.rpy:950
 translate ja game_script_6542799f:
 
     # "From what I know, Sayori considers her a best friend alongside myself and maybe Monika."
-    ""
+    "さよりはナツキのことも親友だと思ってるし、俺やモニカもそうだ。"
 
 # game/game_script.rpy:951
 translate ja game_script_60513826:
 
     # "She’d want Natsuki to know."
-    ""
+    "きっとナツキにも知ってほしいはずだ。"
 
 # game/game_script.rpy:952
 translate ja game_script_63888b72:
 
     # "At the same time, I don’t feel comfortable with it."
-    ""
+    "でも俺が勝手に話すのは違う気がする。"
 
 # game/game_script.rpy:953
 translate ja game_script_1255aa88:
 
     # "That’s her decision to make, not mine, just like with Monika and Yuri."
-    ""
+    "それはさより自身が決めることだ。モニカやユリの時と同じで。"
 
 # game/game_script.rpy:954
 translate ja game_script_4294be29:
 
     # "Something doesn’t sit right with me about lying to Natsuki."
-    ""
+    "ナツキに嘘つくのはやっぱり気が引ける。"
 
 # game/game_script.rpy:955
 translate ja game_script_695cd465:
 
     # "But I’m not really lying, right?"
-    ""
+    "でも、嘘ってほどじゃないよな？"
 
 # game/game_script.rpy:956
 translate ja game_script_c0f83007:
 
     # "It’s just an omission."
-    ""
+    "言わないだけだし。"
 
 # game/game_script.rpy:959
 translate ja game_script_c90baa36:
 
     # mc "An...event occurred. Sayori couldn’t make it and I was with her."
-    mc ""
+    mc "ちょっと色々あって、さよりは来れなかったんだ。俺はずっと一緒にいた。"
 
 # game/game_script.rpy:961
 translate ja game_script_39a7da28:
 
     # n "...[player], that sounds bad."
-    n ""
+    n "…［player］、それヤバそうじゃん。"
 
 # game/game_script.rpy:963
 translate ja game_script_8fc48c93:
 
     # n "She okay?"
-    n ""
+    n "さよりは大丈夫なの？"
 
 # game/game_script.rpy:965
 translate ja game_script_4a07d8db:
 
     # mc "Yeah, she is. She’ll be back soon."
-    mc ""
+    mc "うん、大丈夫。もうすぐ戻ってくるよ。"
 
 # game/game_script.rpy:968
 translate ja game_script_058853c8:
 
     # "I feel terrible about not being upfront, but I’m sure she’ll understand if Sayori tells her."
-    ""
+    "正直に言えなくて罪悪感あるけど、さよりが話してくれればきっと分かってくれるはず。"
 
 # game/game_script.rpy:969
 translate ja game_script_8ecac4f5:
 
     # "I quickly change the subject to the topic most on my mind."
-    ""
+    "すぐに話題を変えて、今一番気になってることを聞く。"
 
 # game/game_script.rpy:971
 translate ja game_script_184189d5:
 
     # mc "Which brings me to my own question."
-    mc ""
+    mc "それで、俺からも聞きたいことがあるんだけど。"
 
 # game/game_script.rpy:972
 translate ja game_script_5acfb0aa:
 
     # mc "What happened on Monday? Are you alright?"
-    mc ""
+    mc "月曜日、何があったの？大丈夫だった？"
 
 # game/game_script.rpy:975
 translate ja game_script_d0c029d6:
 
     # n "Oh, that."
-    n ""
+    n "ああ、そのことね。"
 
 # game/game_script.rpy:976
 translate ja game_script_42998b09:
 
     # n "It was just...we had a problem at home."
-    n ""
+    n "家でちょっとトラブルがあってさ。"
 
 # game/game_script.rpy:978
 translate ja game_script_21745e74:
 
     # n "Had to spend the day in the basement helping to fix something."
-    n ""
+    n "一日中地下で修理手伝ってたんだ。"
 
 # game/game_script.rpy:980
 translate ja game_script_f2780241:
 
     # n "I couldn’t answer my phone. I’m sorry."
-    n ""
+    n "だからスマホ出れなかった、ごめんね。"
 
 # game/game_script.rpy:983
 translate ja game_script_15510b4d:
 
     # "...Huh."
-    ""
+    "…そっか。"
 
 # game/game_script.rpy:984
 translate ja game_script_7373d1ac:
 
     # "Her explanation seemed plausible enough, but..."
-    ""
+    "説明はそれっぽいけど…"
 
 # game/game_script.rpy:985
 translate ja game_script_1fbc54f3:
 
     # "I can’t shake a bad feeling about it. A really bad feeling."
-    ""
+    "なんか嫌な予感が消えない。すごく嫌な感じだ。"
 
 # game/game_script.rpy:986
 translate ja game_script_0255709e:
 
     # "I don’t believe it. Not for a second."
-    ""
+    "どうしても信じきれない。"
 
 # game/game_script.rpy:987
 translate ja game_script_65a7ae30:
 
     # "But if she’s lying to me, of all people, she’s doing it for a reason."
-    ""
+    "でも、もし俺に嘘ついてるなら、何か理由があるんだろう。"
 
 # game/game_script.rpy:988
 translate ja game_script_ce63c15e:
 
     # "I don’t press it."
-    ""
+    "深くは追及しないことにした。"
 
 # game/game_script.rpy:990
 translate ja game_script_c8ed989e:
 
     # mc "Alright, fair enough."
-    mc ""
+    mc "そっか、分かったよ。"
 
 # game/game_script.rpy:993
 translate ja game_script_50421cf1:
 
     # "Natsuki exhales and rocks on her heels."
-    ""
+    "ナツキはふっと息を吐いて、かかとで揺れる。"
 
 # game/game_script.rpy:996
 translate ja game_script_72fbdc70:
 
     # n "So, that’s why."
-    n ""
+    n "だから、そういうこと。"
 
 # game/game_script.rpy:998
 translate ja game_script_bd492e3d:
 
     # n "Can’t wait to get chewed out by Monika..."
-    n ""
+    n "モニカに説教されるの、今から憂鬱だよ…"
 
 # game/game_script.rpy:1000
 translate ja game_script_b91d60fb:
 
     # mc "She was worried about you when I told her I hadn’t seen you."
-    mc ""
+    mc "俺が会ってないって言ったら、モニカ心配してたよ。"
 
 # game/game_script.rpy:1001
 translate ja game_script_1d10a619:
 
     # mc "You should talk to her. Yuri, too."
-    mc ""
+    mc "モニカにもユリにも、ちゃんと話した方がいいよ。"
 
 # game/game_script.rpy:1003
 translate ja game_script_c3d9b35d:
 
     # n "They’re...worried?"
-    n ""
+    n "二人とも…心配してるの？"
 
 # game/game_script.rpy:1005
 translate ja game_script_9b5974ab:
 
     # "She seems to react with genuine surprise."
-    ""
+    "本気で驚いた顔をしてる。"
 
 # game/game_script.rpy:1007
 translate ja game_script_e7f2e519:
 
     # mc "Despite your differences, Yuri does care about you."
-    mc ""
+    mc "いろいろあるけど、ユリも君のこと気にかけてるよ。"
 
 # game/game_script.rpy:1010
 translate ja game_script_fc0aa171:
 
     # "She looks uneasy, glancing towards the corner."
-    ""
+    "ナツキは落ち着かない様子で、部屋の隅をちらっと見る。"
 
 # game/game_script.rpy:1013
 translate ja game_script_7e984877:
 
     # "She sighs and picks up her bag."
-    ""
+    "ため息をついて、バッグを手に取る。"
 
 # game/game_script.rpy:1016
 translate ja game_script_615165a1:
 
     # n "...Not today."
-    n ""
+    n "…今日はやめとく。"
 
 # game/game_script.rpy:1018
 translate ja game_script_b16d954a:
 
     # n "I need some time to myself, y’know?"
-    n ""
+    n "ちょっと一人になりたいんだよね。"
 
 # game/game_script.rpy:1019
 translate ja game_script_942ea4fd:
 
     # n "Plus, I need to be home early today. Need to start dinner."
-    n ""
+    n "それに今日は早く帰って晩ご飯作らなきゃだし。"
 
 # game/game_script.rpy:1021
 translate ja game_script_ac2ca77f:
 
     # mc "Oh...alright."
-    mc ""
+    mc "あ、そっか。分かった。"
 
 # game/game_script.rpy:1023
 translate ja game_script_e3539813:
 
     # n "I’ll see you tomorrow though, okay?"
-    n ""
+    n "でも明日には会えるからね？"
 
 # game/game_script.rpy:1025
 translate ja game_script_12fa4587:
 
     # mc "Promise?"
-    mc ""
+    mc "約束だよ？"
 
 # game/game_script.rpy:1030
 translate ja game_script_a6b22618:
 
     # "Natsuki pauses and looks away for a very short moment, before glancing back at me."
-    ""
+    "ナツキは一瞬目をそらしてから、また俺を見る。"
 
 # game/game_script.rpy:1033
 translate ja game_script_dc709c05:
 
     # n "...I promise."
-    n ""
+    n "…約束する。"
 
 # game/game_script.rpy:1036
 translate ja game_script_85ea0142:
 
     # "She gives me a weak but honest smile."
-    ""
+    "ちょっと弱々しいけど、素直な笑顔を見せてくれる。"
 
 # game/game_script.rpy:1038
 translate ja game_script_51ef4d2d:
 
     # mc "Alright, get going. Don’t let me hold you up."
-    mc ""
+    mc "じゃあ、行きなよ。俺のせいで遅れないように。"
 
 # game/game_script.rpy:1042
 translate ja game_script_d25828b0:
 
     # "She waves and walks down the hallway."
-    ""
+    "ナツキは手を振って、廊下を歩いていく。"
 
 # game/game_script.rpy:1043
 translate ja game_script_ce239f02:
