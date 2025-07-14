@@ -7330,7 +7330,7 @@ translate ja game_script_ce1ba3e6:
 translate ja game_script_7da51848:
 
     # mc "I’m {i}terrified{/i} where I wasn’t before."
-    mc "前より{ i }怖くなってる。{/i}"
+    mc "前より{i}怖くなってる。{/i}"
 
 # game/game_script.rpy:2589
 translate ja game_script_38358ea1:
